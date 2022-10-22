@@ -11,7 +11,7 @@ import blogPic3 from '../../images/bilder/svamp.jpg';
 const content = [
 	{ 
 		thumb: blogPic1,
-		title: "Matematik",
+		title: "Läxhjälp varje vecka",
 		text: "Lågstadieelevers föreställningar om stora tal och positionssystemet. (åk1) Många elever har en ganska god taluppfattning redan innan de börjar skolan.  ",
 		date: "8 Nov 2021",
 		by: "Ann-Sofie"

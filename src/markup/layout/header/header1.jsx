@@ -118,15 +118,13 @@ class Header extends Component{
 											<li><Link to="/datum">Viktiga datum</Link></li>
 											</ul>
 										</li>
-										<li><Link to="/">Ledningen</Link>
+										<li><Link to="/ledningen">Ledningen</Link>
 										</li>
 										
 										<li className="add-mega-menu"><Link to="/kontaktaoss">Kontakta oss</Link>
 											
 										</li>										
-										<li><Link to="/">Övrigt</Link>
-											
-										</li>
+										
 									</ul>
 									<div className="nav-social-link">
 										<Link to="#"><i className="fa fa-facebook"></i></Link>

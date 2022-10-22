@@ -66,97 +66,26 @@ class Footer1 extends Component{
 	render(){
 		return(
 			<>
-				<footer>
-					<div className="footer-top">
-						<div className="pt-exebar">
-							<div className="container">
-								<div className="d-flex align-items-stretch">
-									<div className="pt-logo mr-auto">
-										<Link to="/"><img src={logo} alt=""/></Link>
-									</div>
-									<div className="pt-social-link">
-										<ul className="list-inline m-a0">
-											<li><Link to="#" className="btn-link"><i className="fa fa-facebook"></i></Link></li>
-											<li><Link to="#" className="btn-link"><i className="fa fa-twitter"></i></Link></li>
-											<li><Link to="#" className="btn-link"><i className="fa fa-linkedin"></i></Link></li>
-											<li><Link to="#" className="btn-link"><i className="fa fa-google-plus"></i></Link></li>
-										</ul>
-									</div>
-									<div className="pt-btn-join">
-										<Link to="/contact-1" className="btn">Join Now</Link>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div className="container">
-							<div className="row">
-								<div className="col-lg-4 col-md-12 col-sm-12 footer-col-4">
-									<div className="widget">
-										<h6 className="footer-title">Sign Up For A Newsletter</h6>
-										<p className="text-capitalize m-b20">Weekly Breaking news analysis and cutting edge advices on job searching.</p>
-										<div className="subscribe-form m-b20">
-											<form className="subscription-form">
-												<div className="ajax-message"></div>
-												<div className="input-group">
-													<input name="email" required="required"  className="form-control" placeholder="Your Email Address" type="email"/>
-													<span className="input-group-btn">
-														<button name="submit" value="Submit" type="submit" className="btn"><i className="fa fa-arrow-right"></i></button>
-													</span> 
-												</div>
-											</form>
-										</div>
-									</div>
-								</div>
-								<div className="col-12 col-lg-5 col-md-7 col-sm-12">
-									<div className="row">
-										<div className="col-4 col-lg-4 col-md-4 col-sm-4">
-											<div className="widget footer_widget">
-												<h6 className="footer-title">Company</h6>
-												<ul>
-													<li><Link to="/">Home</Link></li>
-													<li><Link to="/about-1">About</Link></li>
-													<li><Link to="/faq-1">FAQs</Link></li>
-													<li><Link to="/contact-1">Contact</Link></li>
-												</ul>
-											</div>
-										</div>
-										<div className="col-4 col-lg-4 col-md-4 col-sm-4">
-											<div className="widget footer_widget">
-												<h6 className="footer-title">Get In Touch</h6>
-												<ul>
-													<li><Link to="/">Dashboard</Link></li>
-													<li><Link to="/blog-classic-grid">Blog</Link></li>
-													<li><Link to="/">Portfolio</Link></li>
-													<li><Link to="/event">Event</Link></li>
-												</ul>
-											</div>
-										</div>
-										<div className="col-4 col-lg-4 col-md-4 col-sm-4">
-											<div className="widget footer_widget">
-												<h6 className="footer-title">Courses</h6>
-												<ul>
-													<li><Link to="/courses">Courses</Link></li>
-													<li><Link to="/courses-details">Details</Link></li>
-													<li><Link to="/">Membership</Link></li>
-													<li><Link to="/profile">Profile</Link></li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div className="col-12 col-lg-3 col-md-5 col-sm-12 footer-col-4">
-								</div>
-							</div>
-						</div>
+								<div className="bg-primary text-white contact-info-bx">
+					<div className="heading-bx left mb-4">
+						<h3 className="m-b10 title-head">Kontakt <span> Info</span></h3>
 					</div>
-					<div className="footer-bottom">
-						<div className="container">
-							<div className="row">
-								<div className="col-lg-12 col-md-12 col-sm-12 text-center"> © 2022 <span className="text-white">Jackobiskolan</span>  All Rights Reserved.</div>
-							</div>
-						</div>
+					<div className="widget widget_getintuch">	
+						<ul>
+							<li><i className="ti-location-pin"></i>Sibeliusgången 11, 164 77 Kista</li>
+							<li><i className="ti-mobile"></i>08-510 602 90</li>
+							<li><i className="ti-email"></i>info@kistaschool.se</li>
+						</ul>
 					</div>
-				</footer>
+					<h5 className="m-t0 m-b20">Följ oss</h5>
+					<ul className="list-inline contact-social-bx m-b0">
+						<li><Link to="#" className="btn outline radius-xl"><i className="fa fa-facebook"></i></Link></li>
+						<li><Link to="#" className="btn outline radius-xl"><i className="fa fa-instagram"></i></Link></li>
+					</ul>
+							<div className="row">
+								<div className="col-lg-12 col-md-12 col-sm-12 mt-4"> © 2022 <span className="text-white">Kista International School</span>  All Rights Reserved.</div>
+					</div>
+				</div>
 				
 			</>
 		);

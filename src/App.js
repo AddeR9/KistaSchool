@@ -53,6 +53,9 @@ import kortfakta from './markup/pages/kortfakta';
 
 import TestPage from './markup/pages/testpage';
 
+// Ledningen
+import Ledningen from './markup/pages/ledningen'
+
 
 
 function App() {
@@ -83,8 +86,8 @@ function App() {
 
 					
 						
-						{/* Other Pages */}
-						
+						{/* Ledningen */}
+						<Route path='/ledningen' exact component={Ledningen} />
 						
 						{/* Courses */}
 						

@@ -2413,11 +2413,10 @@ footer .pt-social-link ul li{
 	border-radius:4px;
 	color:#fff;
 	border:1px solid rgba(255,255,255,0.2);
-	background-color:rgba(255,255,255,0.15);
 	padding:20px 20px 15px 20px;
 }
 .cours-search-bx h3{
-	color:#fff;
+	color:#ffc45d;
 	font-weight:300;
 	font-size:45px;
 }
