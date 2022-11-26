@@ -10,7 +10,7 @@ class TotalPeople extends Component{
 	render(){
 		return(
 			<>
-				<div className="section-area section-sp1 ovpr-dark bg-fix online-cours" style={{backgroundImage:"url("+bg1+")"}}>
+				<div className="section-area section-sp1 ovpr-dark bg-fix online-cours mt-5" style={{backgroundImage:"url("+bg1+")"}}>
 					<div className="container">
 						<div className="row">
 							<div className="col-md-12 text-center text-white">
