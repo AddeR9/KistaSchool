@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import ModalVideo from 'react-modal-video'
 
 // Images
-import aboutPic1 from './images/bilder/fasad/kistachool2.jpg';
+import aboutPic1 from './images/bilder/fasad/kistaschoolfirst.jpg';
 
 class Start extends Component{
 	
@@ -29,7 +29,7 @@ class Start extends Component{
 									<h3 className="title-head">Kista International School</h3>
 									<p className="text-white">Kista International School kan stoltsera sig med att tillhöra de skolor som uppnår goda kunskapsresultat varje år i Sverige med hänsyn taget till barnens socioekonomiska förutsättningar. Framgångsfaktorerna är flera; drivkraft och stabilitet i skolledningen, ett stort engagemang bland våra anställda, samt viljan att utveckla och förbättra de olika skolverksamheterna.</p>
 								</div>
-								<Link to="/kortfakta" className="btn">Läs mer</Link>
+								<Link className="btn">Läs mer</Link>
 							</div>
 							<div className="col-lg-7 col-md-12 heading-bx p-lr">
 								<div className="video-bx">

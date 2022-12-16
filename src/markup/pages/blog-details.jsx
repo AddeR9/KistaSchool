@@ -14,7 +14,7 @@ import bannerImg from '../../images/banner/banner2.jpg';
 import testiPic1 from '../../images/testimonials/pic1.jpg';
 
 // Images
-import blogPic1 from '../../images/bilder/matematik.jpeg';
+import blogPic1 from '../../images/bilder/personal/mittistockholm.jpg';
 import blogPic2 from '../../images/bilder/aik.jpeg';
 import blogPic3 from '../../images/bilder/svamp.jpg';
 
@@ -66,13 +66,22 @@ class BlogDetails extends Component{
 											</div>
 											<div className="info-bx">
 												<ul className="media-post">
-													<li><Link to="#"><i className="fa fa-calendar"></i>11 Nov 2021</Link></li>
-													<li><Link to="#"><i className="fa fa-camera"></i>Ann-Sofie</Link></li>
+													<li><Link to="#"><i className="fa fa-calendar"></i>2021-03-13</Link></li>
+													<li><Link to="#"><i className="fa fa-camera"></i>Mitt i Stockholm</Link></li>
 												</ul>
-												<h3 className="post-title">Lågstadieelevers föreställningar om stora tal och positionssystemet (åk1).</h3>
-												<p>Vem av er har besökt en möbelaffär förut? Vad såg ni? Berätta! 
-Vi hade mycket intressanta diskussioner i klass Lärbro (åk 1) kring ovanstående frågor. Eleverna fick var sin stencil med olika soffor och prislappar. De klippte ut dessa och klistrade i dessa i sina matteböcker. Vad kan sofforna kosta? Sedan fick de i par diskutera med varandra hur de tänkte kring prissättningen innan de presenterade för hela klassen. Det bästa med uppgiften var att det inte fanns något rätt eller fel. Alla tankar och sätt är förhandlingsbara. T.ex den största soffan kan både vara dyrast och billigast beroende på många omständigheter såsom om den är helt ny eller begagnad. Vi fick även in nya begrepp såsom billig och dyr. Idén hämtad från matematikdidaktikern Ulla Öbergs bok ”sluta räkna -börja se” :)</p>
+												<h2 className="post-title">Skolresultaten lyfte när föräldrarna fick makten</h2>
+												<br>
+												</br>
+												<h4>Om det blir stökigt i en klass sitter föräldrarna med på lektionerna tills det lugnar sig. ”Det känns bra att de får veta vad deras barn gör”, säger Yusuf Omar, elev i Sveriges mest framgångsrika, föräldradrivna skola.</h4>
+												<br>
+												</br>
+												<p>Av de 520 eleverna är det bara en som har svenska som modersmål.</p>
+												<p>94 procent har somalisk familjebakgrund, vilket gör Kista International School i Akalla till en av Stockholms mest etniskt segregerade skolor.</p>
+												<p>Den är samtidigt en av de mest framgångsrika.</p>
+												<p>I hela Sverige finns bara en annan skola som presterar bättre meritvärden, i förhållande till det socioekonomiska utgångsläget.</p>		
+												<p>– Förra året var det tyvärr tre elever som inte nådde gymnasiebehörighet. Vi hade klarat 100 procent om det inte varit för coronan, säger Johan Segerfeldt, rektor sedan fem år tillbaka.</p>	
 												
+																		
 											</div>
 										</div>
 									</div>

@@ -97,11 +97,9 @@ class Header extends Component{
 										<li className="active"><Link to="#">Om oss <i className="fa fa-chevron-down"></i></Link>
 											<ul className="sub-menu">
 												<li><Link to="/">Kista International School - Ett tryggt val!</Link></li>
-												<li><Link to="/kortfakta">Kort fakta</Link></li>
+												{/* <li><Link to="/kortfakta">Kort fakta</Link></li> */}
 												<li><Link to="/">Lika behandlingsplan</Link></li>
-												<li><Link to="/lokaler">Våra lokaler</Link></li>
-												<li><Link to="/api/News">Våra lokaler</Link></li>
-
+				
 
 
 											</ul>
@@ -113,21 +111,24 @@ class Header extends Component{
 											<li><Link to="/">Lika behandlingsplan - Elevversion</Link></li>
 											</ul>
 										</li>
-										<li><Link to="/nyheter">Nyheter <i className="fa fa-chevron-down"></i></Link>
+										
+										{/* <li><Link to="/nyheter">Nyheter <i className="fa fa-chevron-down"></i></Link>
 										<ul className="sub-menu">
 											<li><Link to="/datum">Viktiga datum</Link></li>
 											</ul>
-										</li>
-										<li><Link to="/ledningen">Ledningen</Link>
-										</li>
+										</li> 
 										
+											<li><Link to="/ledningen">Ledningen</Link>
+										</li>
+										*/}
+									
 										<li className="add-mega-menu"><Link to="/kontaktaoss">Kontakta oss</Link>
 											
 										</li>										
 										
 									</ul>
 									<div className="nav-social-link">
-										<Link to="#"><i className="fa fa-facebook"></i></Link>
+										<Link to="https://www.facebook.com/KistaSchool"><i className="fa fa-facebook"></i></Link>
 										<Link to="#"><i className="fa fa-instagram"></i></Link>
 									</div>
 								</div>

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f1a75065.chunk.css",
-    "main.js": "/static/js/main.7e616db2.chunk.js",
-    "main.js.map": "/static/js/main.7e616db2.chunk.js.map",
+    "main.js": "/static/js/main.cd5dd947.chunk.js",
+    "main.js.map": "/static/js/main.cd5dd947.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d95722a4.js",
     "runtime-main.js.map": "/static/js/runtime-main.d95722a4.js.map",
     "static/css/2.0cc89900.chunk.css": "/static/css/2.0cc89900.chunk.css",
@@ -85,9 +85,11 @@
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/grillochfotboll.8b5834e3.jpeg": "/static/media/grillochfotboll.8b5834e3.jpeg",
     "static/media/kistachool2.cfd1dc0e.jpg": "/static/media/kistachool2.cfd1dc0e.jpg",
+    "static/media/kistaschoolfirst.b5b86f20.jpg": "/static/media/kistaschoolfirst.b5b86f20.jpg",
     "static/media/line-awesome.min.css": "/static/media/line-awesome.6e3d8592.svg",
     "static/media/logo_transparent_background.85178089.png": "/static/media/logo_transparent_background.85178089.png",
     "static/media/matematik.508490dd.jpeg": "/static/media/matematik.508490dd.jpeg",
+    "static/media/mittistockholm.3ec7f060.jpg": "/static/media/mittistockholm.3ec7f060.jpg",
     "static/media/personal1.960dc75d.jpeg": "/static/media/personal1.960dc75d.jpeg",
     "static/media/personal2.8abbea07.jpeg": "/static/media/personal2.8abbea07.jpeg",
     "static/media/personal3.466ccb89.jpeg": "/static/media/personal3.466ccb89.jpeg",
@@ -128,6 +130,6 @@
     "static/css/2.0cc89900.chunk.css",
     "static/js/2.83122f50.chunk.js",
     "static/css/main.f1a75065.chunk.css",
-    "static/js/main.7e616db2.chunk.js"
+    "static/js/main.cd5dd947.chunk.js"
   ]
 }
