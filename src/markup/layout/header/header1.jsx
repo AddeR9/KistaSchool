@@ -101,7 +101,6 @@ class Header extends Component{
 												<li><Link to="/">Lika behandlingsplan</Link></li>
 				
 
-
 											</ul>
 										</li>
 										<li><Link to="#">Elev & Föräldrar  <i className="fa fa-chevron-down"></i></Link>
