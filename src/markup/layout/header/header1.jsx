@@ -97,13 +97,7 @@ class Header extends Component{
 										<li className="active"><Link to="#">Om oss <i className="fa fa-chevron-down"></i></Link>
 											<ul className="sub-menu">
 												<li><Link to="/">Kista International School - Ett tryggt val!</Link></li>
-												<li><Link to="/kortfakta">Kort fakta</Link></li>
-												<li><Link to="/">Lika behandlingsplan</Link></li>
-												<li><Link to="/lokaler">Våra lokaler</Link></li>
-												<li><Link to="/api/News">Våra lokaler</Link></li>
-
-
-
+												
 											</ul>
 										</li>
 										<li><Link to="#">Elev & Föräldrar  <i className="fa fa-chevron-down"></i></Link>
@@ -113,13 +107,12 @@ class Header extends Component{
 											<li><Link to="/">Lika behandlingsplan - Elevversion</Link></li>
 											</ul>
 										</li>
-										<li><Link to="/nyheter">Nyheter <i className="fa fa-chevron-down"></i></Link>
+										<li><Link to="">Nyheter <i className="fa fa-chevron-down"></i></Link>
 										<ul className="sub-menu">
-											<li><Link to="/datum">Viktiga datum</Link></li>
+											<li><Link to="">Viktiga datum</Link></li>
 											</ul>
 										</li>
-										<li><Link to="/ledningen">Ledningen</Link>
-										</li>
+
 										
 										<li className="add-mega-menu"><Link to="/kontaktaoss">Kontakta oss</Link>
 											
