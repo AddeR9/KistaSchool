@@ -122,7 +122,6 @@ class Header extends Component{
 										*/}
 									
 										<li className="add-mega-menu"><Link to="/kontaktaoss">Kontakta oss</Link>
-											
 										</li>										
 										
 									</ul>
