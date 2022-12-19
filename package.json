@@ -1,7 +1,7 @@
 {
   "homepage": "http://AddeR9.github.io/KistaSchool",
   "name": "Kista International School",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
@@ -26,8 +26,8 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
