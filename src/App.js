@@ -65,7 +65,7 @@ function App() {
 					<Switch>
 					
 						{/* Home Pages */}
-						<Route path='/KistaSchool' exact component={Index2} />						
+						<Route path='/' exact component={Index2} />						
 						
 						{/* About Us */}
 						<Route path='/lokaler' exact component={Portfolio} />				
