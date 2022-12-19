@@ -1,5 +1,5 @@
 {
-  "homepage": "http://AddeR9.github.io/KistaSchool",
+  "homepage": "https://kistaschool.se",
   "name": "Kista International School",
   "version": "0.1.4",
   "private": true,
@@ -8,6 +8,7 @@
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.3",
     "bootstrap": "^4.6.0",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.0",
     "react-countup": "^4.3.3",
