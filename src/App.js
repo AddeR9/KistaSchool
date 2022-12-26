@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
-import Markup from './markup/markup';
 
 // Plugins Stylesheet
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -24,7 +23,6 @@ import './vendors/fontawesome/css/font-awesome.min.css';
 import './vendors/flaticon/flaticon.css';
 import './vendors/line-awesome/css/line-awesome.min.css';
 import './vendors/themify/themify-icons.css';
-import Header from './Header';
 
 // Elements
 import BackToTop from './markup/elements/back-top';
