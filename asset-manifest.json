@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1a75065.chunk.css",
-    "main.js": "/static/js/main.35e181c2.chunk.js",
-    "main.js.map": "/static/js/main.35e181c2.chunk.js.map",
+    "main.css": "/static/css/main.f5f7afb2.chunk.css",
+    "main.js": "/static/js/main.b51aeb6c.chunk.js",
+    "main.js.map": "/static/js/main.b51aeb6c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4bbebd0e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4bbebd0e.js.map",
-    "static/css/2.7fd31b67.chunk.css": "/static/css/2.7fd31b67.chunk.css",
-    "static/js/2.4a8abbf8.chunk.js": "/static/js/2.4a8abbf8.chunk.js",
-    "static/js/2.4a8abbf8.chunk.js.map": "/static/js/2.4a8abbf8.chunk.js.map",
+    "static/css/2.0cc89900.chunk.css": "/static/css/2.0cc89900.chunk.css",
+    "static/js/2.b9c0bcd4.chunk.js": "/static/js/2.b9c0bcd4.chunk.js",
+    "static/js/2.b9c0bcd4.chunk.js.map": "/static/js/2.b9c0bcd4.chunk.js.map",
     "static/js/3.fbcbc003.chunk.js": "/static/js/3.fbcbc003.chunk.js",
     "static/js/3.fbcbc003.chunk.js.map": "/static/js/3.fbcbc003.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.7fd31b67.chunk.css.map": "/static/css/2.7fd31b67.chunk.css.map",
-    "static/css/main.f1a75065.chunk.css.map": "/static/css/main.f1a75065.chunk.css.map",
-    "static/js/2.4a8abbf8.chunk.js.LICENSE.txt": "/static/js/2.4a8abbf8.chunk.js.LICENSE.txt",
+    "static/css/2.0cc89900.chunk.css.map": "/static/css/2.0cc89900.chunk.css.map",
+    "static/css/main.f5f7afb2.chunk.css.map": "/static/css/main.f5f7afb2.chunk.css.map",
+    "static/js/2.b9c0bcd4.chunk.js.LICENSE.txt": "/static/js/2.b9c0bcd4.chunk.js.LICENSE.txt",
     "static/media/Aula1.14069170.jpeg": "/static/media/Aula1.14069170.jpeg",
     "static/media/Aula2.e81bfe70.jpeg": "/static/media/Aula2.e81bfe70.jpeg",
     "static/media/Aula3.7c4007b7.jpeg": "/static/media/Aula3.7c4007b7.jpeg",
     "static/media/Aula4.7ce66603.jpeg": "/static/media/Aula4.7ce66603.jpeg",
     "static/media/Aula5.a9fc4d50.jpeg": "/static/media/Aula5.a9fc4d50.jpeg",
-    "static/media/style.css": "/static/media/united-states-of-america.be8de989.svg",
+    "static/media/style.css": "/static/media/united-states-of-america.59c09ec3.svg",
     "static/media/Datorsal1.1caff258.jpeg": "/static/media/Datorsal1.1caff258.jpeg",
     "static/media/Datorsal2.3d1a2c13.jpeg": "/static/media/Datorsal2.3d1a2c13.jpeg",
     "static/media/Datorsal3.08a7f7fd.jpeg": "/static/media/Datorsal3.08a7f7fd.jpeg",
@@ -86,7 +86,7 @@
     "static/media/grillochfotboll.8b5834e3.jpeg": "/static/media/grillochfotboll.8b5834e3.jpeg",
     "static/media/kistachool2.cfd1dc0e.jpg": "/static/media/kistachool2.cfd1dc0e.jpg",
     "static/media/kistaschoolfirst.b5b86f20.jpg": "/static/media/kistaschoolfirst.b5b86f20.jpg",
-    "static/media/line-awesome.min.css": "/static/media/line-awesome.6e3d8592.svg",
+    "static/media/line-awesome.min.css": "/static/media/line-awesome.f4b3204d.svg",
     "static/media/logo_transparent_background.85178089.png": "/static/media/logo_transparent_background.85178089.png",
     "static/media/matematik.508490dd.jpeg": "/static/media/matematik.508490dd.jpeg",
     "static/media/mittistockholm.3ec7f060.jpg": "/static/media/mittistockholm.3ec7f060.jpg",
@@ -123,13 +123,13 @@
     "static/media/skolstart2019.a4482936.jpeg": "/static/media/skolstart2019.a4482936.jpeg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/svamp.8dfcc0ce.jpg": "/static/media/svamp.8dfcc0ce.jpg",
-    "static/media/themify-icons.css": "/static/media/themify.eda8b943.ttf"
+    "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4bbebd0e.js",
-    "static/css/2.7fd31b67.chunk.css",
-    "static/js/2.4a8abbf8.chunk.js",
-    "static/css/main.f1a75065.chunk.css",
-    "static/js/main.35e181c2.chunk.js"
+    "static/css/2.0cc89900.chunk.css",
+    "static/js/2.b9c0bcd4.chunk.js",
+    "static/css/main.f5f7afb2.chunk.css",
+    "static/js/main.b51aeb6c.chunk.js"
   ]
 }
