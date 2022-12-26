@@ -81,8 +81,7 @@ class Header extends Component{
 								<div className="secondary-menu">
 									<div className="secondary-inner">
 										<ul>
-											<li><Link to="#" className="btn-link"><i className="fa fa-facebook"></i></Link></li>
-											<li><Link to="#" className="btn-link"><i className="fa fa-instagram"></i></Link></li>
+											<li><a href="https://www.facebook.com/KistaSchool" target="_blank" className="btn-link"><i className="fa fa-facebook"></i></a></li>
 											{/* <!-- Search Button ==== --> */}
 											<li className="search-btn"><button id="quik-search-btn" type="button" className="btn-link"><i className="fa fa-search"></i></button></li>
 										</ul>
@@ -105,7 +104,7 @@ class Header extends Component{
 										</li>
 										<li><Link to="#">Elev & Föräldrar  <i className="fa fa-chevron-down"></i></Link>
 											<ul className="sub-menu">
-											<li><Link to="/">Ansök till vår skola</Link></li>
+											<li><Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank">Ansök till vår skola</Link></li>
 											<li><Link to="/">Klagomål</Link></li>
 											<li><Link to="/">Lika behandlingsplan - Elevversion</Link></li>
 											</ul>
@@ -125,10 +124,9 @@ class Header extends Component{
 										</li>										
 										
 									</ul>
-									<div className="nav-social-link">
-										<Link to="https://www.facebook.com/KistaSchool"><i className="fa fa-facebook"></i></Link>
-										<Link to="#"><i className="fa fa-instagram"></i></Link>
-									</div>
+									<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>										
+
+									
 								</div>
 								{/* <!-- Navigation Menu END ==== --> */}
 							</div>
