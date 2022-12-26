@@ -45,7 +45,7 @@ class TotalPeople extends Component{
                 <div className="col-md-4 col-sm-12 col-12">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-solid fa-volleyball"></i><Count counter={8}/></h3>
+											<h3><i class="fa-solid fa-volleyball"></i><Count counter={2}/></h3>
 										</div>
 										<span className="cours-search-text">Idrottshallar</span>
 									</div>
