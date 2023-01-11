@@ -105,7 +105,7 @@ class Header extends Component{
 										<li><Link to="#">Elev & Föräldrar  <i className="fa fa-chevron-down"></i></Link>
 											<ul className="sub-menu">
 											<li><Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank">Ansök till vår skola</Link></li>
-											<li><Link to="/">Klagomål</Link></li>
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål</Link></li>
 											<li><Link to="/">Lika behandlingsplan - Elevversion</Link></li>
 											</ul>
 										</li>
