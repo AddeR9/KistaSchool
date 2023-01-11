@@ -95,33 +95,32 @@ class Header extends Component{
 									<ul className="nav navbar-nav">	
 										<li className="active"><Link to="#">Om oss <i className="fa fa-chevron-down"></i></Link>
 											<ul className="sub-menu">
-												<li><Link to="/">Kista International School - Ett tryggt val!</Link></li>
+												<li><Link to="/">Ledning</Link></li>
 												{/* <li><Link to="/kortfakta">Kort fakta</Link></li> */}
-												<li><Link to="/">Lika behandlingsplan</Link></li>
-				
-
+												<li><Link to="/">Personal</Link></li>
+												<li><Link to="/">Elever</Link></li>
+												<li><Link to="/">Klasser</Link></li>
+												<li><Link to="/kontaktaoss">Kontakta oss</Link></li>
 											</ul>
 										</li>
 										<li><Link to="#">Elev & Föräldrar  <i className="fa fa-chevron-down"></i></Link>
 											<ul className="sub-menu">
 											<li><Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank">Ansök till vår skola</Link></li>
-											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål</Link></li>
-											<li><Link to="/">Lika behandlingsplan - Elevversion</Link></li>
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål</Link></li>					
 											</ul>
 										</li>
-										
-										{/* <li><Link to="/nyheter">Nyheter <i className="fa fa-chevron-down"></i></Link>
+
+										<li><Link to="/">Övriga tjänster <i className="fa fa-chevron-down"></i></Link>
 										<ul className="sub-menu">
-											<li><Link to="/datum">Viktiga datum</Link></li>
+											<li><Link to="/">Blanketter</Link></li>
 											</ul>
 										</li> 
 										
-											<li><Link to="/ledningen">Ledningen</Link>
-										</li>
-										*/}
-									
-										<li className="add-mega-menu"><Link to="/kontaktaoss">Kontakta oss</Link>
-										</li>										
+										<li><Link to="/">Nyheter <i className="fa fa-chevron-down"></i></Link>
+										<ul className="sub-menu">
+											<li><Link to="/">Viktiga datum</Link></li>
+											</ul>
+										</li> 				
 										
 									</ul>
 									<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>										

@@ -10,7 +10,7 @@ class TotalPeople extends Component{
 	render(){
 		return(
 			<>
-				<div className="section-area section-sp1 ovpr-dark bg-fix online-cours mt-5" style={{backgroundImage:"url("+bg1+")"}}>
+				<div className="section-area section-sp1 ovpr-dark bg-fix online-cours mt-5 mb-5" style={{backgroundImage:"url("+bg1+")"}}>
 					<div className="container">
 						<div className="row">
 							<div className="col-md-12 text-center text-white">
@@ -21,7 +21,7 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-sharp fa-solid fa-person-chalkboard"></i><Count counter={70}/></h3>
+											<h3><i class="fa-sharp fa-solid fa-person-chalkboard"></i><Count counter={120}/></h3>
 										</div>
 										<span className="cours-search-text">Lärare och personal</span>
 									</div>
@@ -29,9 +29,17 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-solid fa-graduation-cap"></i><Count counter={650}/></h3>
+											<h3><i class="fa-solid fa-graduation-cap"></i><Count counter={610}/></h3>
 										</div>
 										<span className="cours-search-text">Elever</span>
+									</div>
+								</div>
+								<div className="col-md-4 col-sm-6 col-6">
+									<div className="cours-search-bx m-b30">
+										<div className="icon-box">
+											<h3><i class="fa-solid fa-graduation-cap"></i><Count counter={32}/></h3>
+										</div>
+										<span className="cours-search-text">Klasser F-9</span>
 									</div>
 								</div>
 								<div className="col-md-4 col-sm-12 col-12">
