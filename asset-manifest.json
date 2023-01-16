@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.580a1f72.chunk.css",
-    "main.js": "/static/js/main.16aa6a7a.chunk.js",
-    "main.js.map": "/static/js/main.16aa6a7a.chunk.js.map",
+    "main.css": "/static/css/main.6e6a65a0.chunk.css",
+    "main.js": "/static/js/main.1554c16a.chunk.js",
+    "main.js.map": "/static/js/main.1554c16a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4bbebd0e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4bbebd0e.js.map",
     "static/css/2.0cc89900.chunk.css": "/static/css/2.0cc89900.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.fbcbc003.chunk.js.map": "/static/js/3.fbcbc003.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0cc89900.chunk.css.map": "/static/css/2.0cc89900.chunk.css.map",
-    "static/css/main.580a1f72.chunk.css.map": "/static/css/main.580a1f72.chunk.css.map",
+    "static/css/main.6e6a65a0.chunk.css.map": "/static/css/main.6e6a65a0.chunk.css.map",
     "static/js/2.b9c0bcd4.chunk.js.LICENSE.txt": "/static/js/2.b9c0bcd4.chunk.js.LICENSE.txt",
     "static/media/Aula1.14069170.jpeg": "/static/media/Aula1.14069170.jpeg",
     "static/media/Aula2.e81bfe70.jpeg": "/static/media/Aula2.e81bfe70.jpeg",
@@ -40,6 +40,7 @@
     "static/media/Hemkunskap7.843d9301.jpeg": "/static/media/Hemkunskap7.843d9301.jpeg",
     "static/media/Hemkunskap8.36dc184a.jpeg": "/static/media/Hemkunskap8.36dc184a.jpeg",
     "static/media/Hemkunskap9.2e8b58c9.jpeg": "/static/media/Hemkunskap9.2e8b58c9.jpeg",
+    "static/media/Inbjudan.a95bac69.png": "/static/media/Inbjudan.a95bac69.png",
     "static/media/Matsal1.d9d0ca6e.jpeg": "/static/media/Matsal1.d9d0ca6e.jpeg",
     "static/media/Matsal2.eaae2ecc.jpeg": "/static/media/Matsal2.eaae2ecc.jpeg",
     "static/media/Matsal3.787deb68.jpeg": "/static/media/Matsal3.787deb68.jpeg",
@@ -47,7 +48,6 @@
     "static/media/Matsal5.08e4be85.jpeg": "/static/media/Matsal5.08e4be85.jpeg",
     "static/media/Matsal6.abb62486.jpeg": "/static/media/Matsal6.abb62486.jpeg",
     "static/media/Matsal7.af41be80.jpeg": "/static/media/Matsal7.af41be80.jpeg",
-    "static/media/Personal utbildning.946bd6fb.jpeg": "/static/media/Personal utbildning.946bd6fb.jpeg",
     "static/media/Textilslöjd1.276cd68c.jpeg": "/static/media/Textilslöjd1.276cd68c.jpeg",
     "static/media/Textilslöjd2.8dee8885.jpeg": "/static/media/Textilslöjd2.8dee8885.jpeg",
     "static/media/Textilslöjd3.c6d8ffe4.jpeg": "/static/media/Textilslöjd3.c6d8ffe4.jpeg",
@@ -67,7 +67,6 @@
     "static/media/banner2.4faaf119.jpg": "/static/media/banner2.4faaf119.jpg",
     "static/media/bg1.2c3e3496.jpg": "/static/media/bg1.2c3e3496.jpg",
     "static/media/bg2.bc4787b7.jpg": "/static/media/bg2.bc4787b7.jpg",
-    "static/media/bg4.23972ce6.jpg": "/static/media/bg4.23972ce6.jpg",
     "static/media/fasad1.03be49b2.jpeg": "/static/media/fasad1.03be49b2.jpeg",
     "static/media/fasad10.9f2fe95c.jpeg": "/static/media/fasad10.9f2fe95c.jpeg",
     "static/media/fasad11.b367bd5c.jpeg": "/static/media/fasad11.b367bd5c.jpeg",
@@ -118,9 +117,7 @@
     "static/media/pic9.4d8d4e18.jpg": "/static/media/pic9.4d8d4e18.jpg",
     "static/media/pic9.cf4dbdfd.jpg": "/static/media/pic9.cf4dbdfd.jpg",
     "static/media/poesi.55eb53dd.jpeg": "/static/media/poesi.55eb53dd.jpeg",
-    "static/media/skolavslutning.a7352571.jpeg": "/static/media/skolavslutning.a7352571.jpeg",
     "static/media/skoljoggen.96e4150d.jpeg": "/static/media/skoljoggen.96e4150d.jpeg",
-    "static/media/skolstart2019.a4482936.jpeg": "/static/media/skolstart2019.a4482936.jpeg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/svamp.8dfcc0ce.jpg": "/static/media/svamp.8dfcc0ce.jpg",
     "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
@@ -129,7 +126,7 @@
     "static/js/runtime-main.4bbebd0e.js",
     "static/css/2.0cc89900.chunk.css",
     "static/js/2.b9c0bcd4.chunk.js",
-    "static/css/main.580a1f72.chunk.css",
-    "static/js/main.16aa6a7a.chunk.js"
+    "static/css/main.6e6a65a0.chunk.css",
+    "static/js/main.1554c16a.chunk.js"
   ]
 }
