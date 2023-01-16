@@ -1702,6 +1702,10 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	font-size:45px;
 	margin-right:10px;
 }
+
+h2.headertekst {
+  text-align: center;
+}
 /*========================
 	12. FOOTER
 =========================*/

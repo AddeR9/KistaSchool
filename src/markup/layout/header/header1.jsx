@@ -81,8 +81,6 @@ class Header extends Component{
 								<div className="secondary-menu">
 									<div className="secondary-inner">
 										<ul>
-											<li><a href="https://www.facebook.com/KistaSchool" target="_blank" className="btn-link"><i className="fa fa-facebook"></i></a></li>
-											{/* <!-- Search Button ==== --> */}
 											<li className="search-btn"><button id="quik-search-btn" type="button" className="btn-link"><i className="fa fa-search"></i></button></li>
 										</ul>
 									</div>
@@ -95,37 +93,31 @@ class Header extends Component{
 									<ul className="nav navbar-nav">	
 										<li className="active"><Link to="#">Om oss <i className="fa fa-chevron-down"></i></Link>
 											<ul className="sub-menu">
-												<li><Link to="/">Ledning</Link></li>
+												<li><Link to="/">Skolans historia</Link></li>
 												{/* <li><Link to="/kortfakta">Kort fakta</Link></li> */}
-												<li><Link to="/">Personal</Link></li>
-												<li><Link to="/">Elever</Link></li>
-												<li><Link to="/">Klasser</Link></li>
-												<li><Link to="/kontaktaoss">Kontakta oss</Link></li>
+												<li><Link to="/">Skolans verksamheter</Link></li>
 											</ul>
 										</li>
-										<li><Link to="#">Elev & Föräldrar  <i className="fa fa-chevron-down"></i></Link>
+										<li><Link to="#">Kontakta oss<i className="fa fa-chevron-down"></i></Link>
 											<ul className="sub-menu">
-											<li><Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank">Ansök till vår skola</Link></li>
-											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål</Link></li>					
+											<li><Link to="/kontaktaoss">Kontakta skolan</Link></li>
+											<li><Link to="/ledningen">Kontakta personal</Link></li>
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål och synpunkter</Link></li>	
+											<li><Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank">Ansök till vår skola</Link></li>				
 											</ul>
 										</li>
 
-										<li><Link to="/">Övriga tjänster <i className="fa fa-chevron-down"></i></Link>
+										<li><Link to="#">Information<i className="fa fa-chevron-down"></i></Link>
 										<ul className="sub-menu">
-											<li><Link to="/">Blanketter</Link></li>
+										<li><Link to="/kontaktaoss">Information</Link></li>
+										<li><Link to={{ pathname: "https://www.infomentor.se" }} target="_blank">Infomentor</Link></li>
+										<li><Link to={{ pathname: "https://utbildningsguiden.skolverket.se/skolenhet?schoolUnitID=37556682" }} target="_blank">Skolverkets jämförelsesida</Link></li>
+										<li><Link to={{ pathname: "https://www.skolverket.se/" }} target="_blank">Skolverkets hemsida</Link></li>
+										<li><Link to="#">Läsårstider</Link></li>
 											</ul>
 										</li> 
-										
-										<li><Link to="/">Nyheter <i className="fa fa-chevron-down"></i></Link>
-										<ul className="sub-menu">
-											<li><Link to="/">Viktiga datum</Link></li>
-											</ul>
-										</li> 				
-										
 									</ul>
-									<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>										
-
-									
+									<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>											
 								</div>
 								{/* <!-- Navigation Menu END ==== --> */}
 							</div>
