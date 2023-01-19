@@ -2505,14 +2505,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5e14', end
     padding: 10px 15px;
     border-radius: 4px;
     margin-right: 20px;
-    width: 95px;
+    width: 140px;
     position: absolute;
     top: 15px;
     left: 15px;
-    font-size: 14px;
+    font-size: 28px;
 }
 .event-time .event-date{
-	font-size: 45px;
+	font-size: 40px;
     font-weight: 700;
     line-height: 45px;
 }

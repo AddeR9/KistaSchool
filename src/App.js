@@ -37,7 +37,6 @@ import Contact1 from './markup/pages/contact-1';
 
 
 // Events
-import EventsContent2 from './markup/elements/events-content2';
 
 //Nyheter
 import BlogDetails from './markup/pages/blog-details';
@@ -53,6 +52,9 @@ import TestPage from './markup/pages/testpage';
 
 // Ledningen
 import Ledningen from './markup/pages/ledningen'
+import skolanshistoria from './markup/pages/skolans-historia';
+import skolansverksamheter from './markup/pages/skolans-verksameter';
+import EventsContent2 from './markup/elements/events-content2';
 
 
 
@@ -69,6 +71,8 @@ function App() {
 						<Route path='/lokaler' exact component={Portfolio} />				
 						<Route path='/kontaktaoss' exact component={Contact1} />
 						<Route path='/kortfakta' exact component={kortfakta} />
+						<Route path='/skolans-historia' exact component={skolanshistoria} />
+						<Route path='/skolans-verksamheter' exact component={skolansverksamheter} />
 						
 		
 						

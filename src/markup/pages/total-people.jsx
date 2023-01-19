@@ -28,7 +28,7 @@ class TotalPeople extends Component{
 								</div>
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
-										<div className="icon-box">
+										<div className="icon-box">18
 											<h3><i class="fa-solid fa-graduation-cap"></i><Count counter={610}/></h3>
 										</div>
 										<span className="cours-search-text">Elever</span>

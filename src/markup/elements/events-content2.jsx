@@ -8,12 +8,79 @@ import ContactInfoCard from './contact-info-card';
 // Portfolio Content
 const content = [
 	{ 
-		thumb: EventImg1,
-		tag: ['Happening',],
-		place: "Kista International School",
 		title: "Elevernas första dag",		
 		date: 21,
-		month: "augusti",
+		month: "Augusti",
+	},
+	{ 
+		title: "Höstlov 30 oktober till 3 november",		
+		date: "",
+		month: "Höstlov",
+	},
+	{ 
+		title: "Lovskola 1-3 november",		
+		date: "",
+		month: "Lovskola",
+	},
+	{ 
+		title: "Studiedag 15 november, dag för utvecklingssamtal men eleverna är lediga",		
+		date: "",
+		month: "Studiedag",
+	},
+	{ 
+		title: "Julavslutning",		
+		date: 22,
+		month: "December",
+	},
+	{ 
+		title: "Jullov 23 december till 8 januari",		
+		date: "",
+		month: "Jullov",
+	},
+	{ 
+		title: "Elevernas första dag",		
+		date: "9",
+		month: "Januari",
+	},
+	{ 
+		title: "Sportlov 26 februari till 1 mars",		
+		date: "",
+		month: "Sportlov",
+	},
+	{ 
+		title: "Lovskola 26 februari till 1 mars",		
+		date: "",
+		month: "Lovskola",
+	},
+	{ 
+		title: "Dag för utvecklingssamtal men eleverna är lediga",		
+		date: 20,
+		month: "Mars",
+	},
+	{ 
+		title: "Påsklov 29 mars till 5 april",		
+		date: "",
+		month: "Påsklov ",
+	},
+	{ 
+		title: "Lovskola 2-5 april",		
+		date: "",
+		month: "Lovskola",
+	},
+	{ 
+		title: "Ledigt",		
+		date: "1",
+		month: "Maj",
+	},
+	{ 
+		title: "Ledigt",		
+		date: "9-10",
+		month: "Maj",
+	},
+	{ 
+		title: "Ledigt",		
+		date: "6-7",
+		month: "Juni",
 	}
 ]
 
@@ -36,14 +103,8 @@ class EventsContent2 extends Component{
 										<div className="action-box">
 										
 										</div>
-										<div className="info-bx d-flex">
-											<div className="event-info">
-												<ul className="media-post">
-													<li><Link to="/events-details"><i className="fa fa-map-marker"></i> {item.place}</Link></li>
-												</ul>
-												<h4 className="event-title"><Link to="/events-details">{item.title}</Link></h4>
-												<p>{item.text}</p>
-											</div>
+										<div className="info-bx">
+												<h4 className="event-title float-right"><Link to="/events-details">{item.title}</Link></h4>
 										</div>
 										<div className="event-time">
 											<div className="event-date">{item.date}</div>
