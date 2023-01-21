@@ -93,7 +93,7 @@ class EventsContent2 extends Component{
 					<div className="container">
 					<div className="row">
 							<div className="col-md-12 heading-bx left mt-5">
-								<h2 className="title-head">Läsåret <span> 2022/2023</span></h2>
+								<h2 className="title-head">Läsåret <span> 2023/2024</span></h2>
 							</div>
 						</div>
 						<div className="row">
@@ -104,7 +104,7 @@ class EventsContent2 extends Component{
 										
 										</div>
 										<div className="info-bx">
-												<h4 className="event-title float-right"><Link to="/events-details">{item.title}</Link></h4>
+												<h4 className="event-title float-right">{item.title}</h4>
 										</div>
 										<div className="event-time">
 											<div className="event-date">{item.date}</div>
