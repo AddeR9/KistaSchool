@@ -11,18 +11,11 @@ class Header extends Component{
 	componentDidMount() {
 		
 		// Search Form Popup
-		var searchBtn = document.getElementById("quik-search-btn")
-        var searchForm = document.querySelector(".nav-search-bar")
-        var closeBtn = document.getElementById("search-remove")
+
 		
-        searchBtn.addEventListener('click',function(){
-            searchForm.classList.add("show")
-        })
+       
 
-        closeBtn.addEventListener('click',function(){
-            searchForm.classList.remove("show")
-        })
-
+       
         // Mobile Menu sidebar function
         var btn = document.querySelector('.menuicon');
         var nav = document.querySelector('.menu-links');
@@ -80,9 +73,7 @@ class Header extends Component{
 								{/* <!-- Author Nav ==== --> */}
 								<div className="secondary-menu">
 									<div className="secondary-inner">
-										<ul>
-											<li className="search-btn"><button id="quik-search-btn" type="button" className="btn-link"><i className="fa fa-search"></i></button></li>
-										</ul>
+									<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>											
 									</div>
 								</div>
 								{/* <!-- Navigation Menu ==== --> */}
@@ -116,7 +107,6 @@ class Header extends Component{
 											</ul>
 										</li> 
 									</ul>
-									<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>											
 								</div>
 								{/* <!-- Navigation Menu END ==== --> */}
 							</div>

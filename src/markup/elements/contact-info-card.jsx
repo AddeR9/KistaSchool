@@ -19,11 +19,10 @@ class ContactInfoCard extends Component{
 					</div>
 					<h5 className="m-t0 m-b20">Följ oss</h5>
 					<ul className="list-inline contact-social-bx m-b0">
-						<li><Link to="#" className="btn outline radius-xl"><i className="fa fa-facebook"></i></Link></li>
-						<li><Link to="#" className="btn outline radius-xl"><i className="fa fa-instagram"></i></Link></li>
+						<li><Link to={{ pathname: "https://sv-se.facebook.com/KistaSchool/" }} target="_blank" className="btn outline radius-xl"><i className="fa fa-facebook"></i></Link></li>
 					</ul>
 							<div className="row">
-								<div className="col-lg-12 col-md-12 col-sm-12 mt-4"> © 2022 <span className="text-white">Kista International School</span>  All Rights Reserved.</div>
+								<div className="col-lg-12 col-md-12 col-sm-12 mt-4"> © 2023 <span className="text-white">Kista International School</span>  All Rights Reserved.</div>
 					</div>
 				</div>
 			</>
