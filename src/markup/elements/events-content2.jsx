@@ -81,6 +81,16 @@ const content = [
 		title: "Ledigt",		
 		date: "6-7",
 		month: "Juni",
+	},
+	{ 
+		title: "Skolavslutning",		
+		date: "12",
+		month: "Juni",
+	},
+	{ 
+		title: "Lovskola",		
+		date: "",
+		month: "Juni",
 	}
 ]
 
