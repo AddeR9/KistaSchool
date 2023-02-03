@@ -45,7 +45,7 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa fa-certificate" aria-hidden="true"></i><Count counter={278}/></h3>
+											<h3><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><Count counter={278}/></h3>
 										</div>
 										<span className="cours-search-text">Meritvärdet 2021/2022</span>
 									</div>

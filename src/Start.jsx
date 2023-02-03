@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import ModalVideo from 'react-modal-video'
 
 // Images
-import aboutPic1 from './images/bilder/Inbjudan.png';
+import aboutPic1 from './images/bilder/fasad/kistaschoolfirst.jpg';
 
 class Start extends Component{
 	
