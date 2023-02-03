@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.619cc76f.chunk.css",
-    "main.js": "/static/js/main.bc68ce39.chunk.js",
-    "main.js.map": "/static/js/main.bc68ce39.chunk.js.map",
+    "main.js": "/static/js/main.a6e9c3a6.chunk.js",
+    "main.js.map": "/static/js/main.a6e9c3a6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4bbebd0e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4bbebd0e.js.map",
     "static/css/2.0cc89900.chunk.css": "/static/css/2.0cc89900.chunk.css",
@@ -40,7 +40,6 @@
     "static/media/Hemkunskap7.843d9301.jpeg": "/static/media/Hemkunskap7.843d9301.jpeg",
     "static/media/Hemkunskap8.36dc184a.jpeg": "/static/media/Hemkunskap8.36dc184a.jpeg",
     "static/media/Hemkunskap9.2e8b58c9.jpeg": "/static/media/Hemkunskap9.2e8b58c9.jpeg",
-    "static/media/Inbjudan.a95bac69.png": "/static/media/Inbjudan.a95bac69.png",
     "static/media/Matsal1.d9d0ca6e.jpeg": "/static/media/Matsal1.d9d0ca6e.jpeg",
     "static/media/Matsal2.eaae2ecc.jpeg": "/static/media/Matsal2.eaae2ecc.jpeg",
     "static/media/Matsal3.787deb68.jpeg": "/static/media/Matsal3.787deb68.jpeg",
@@ -127,6 +126,6 @@
     "static/css/2.0cc89900.chunk.css",
     "static/js/2.b9c0bcd4.chunk.js",
     "static/css/main.619cc76f.chunk.css",
-    "static/js/main.bc68ce39.chunk.js"
+    "static/js/main.a6e9c3a6.chunk.js"
   ]
 }
