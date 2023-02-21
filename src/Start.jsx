@@ -3,23 +3,36 @@ import { Link } from 'react-router-dom';
 import ModalVideo from 'react-modal-video'
 
 // Images
-import aboutPic1 from './images/bilder/fasad/kistaschoolfirst.jpg';
-import huvudentre from './images/bilder/fasad/bakgrund_huvudentre.jpeg';
+import aboutPic1 from './images/bilder/fasad/backgrund.jpg';
+import huvudentre from './images/bilder/fasad/bakgrund_huvudentre1.jpeg';
 
 class Start extends Component{
 	
 	constructor () {
 		super()
 		this.state = {
-			isOpen: false
+			isOpen: false,
+			isFirstImage: true
 		}
 		this.openModal = this.openModal.bind(this)
 	}
 	openModal () {
 		this.setState({isOpen: true})
 	}
+	handleClick = () => {
+		this.setState({ isFirstImage: !this.state.isFirstImage });
+	  };
+	
+	  componentDidMount() {
+		this.interval = setInterval(() => this.handleClick(), 2000);
+	  }
+	
+	  componentWillUnmount() {
+		clearInterval(this.interval);
+	  }
 	
 	render(){
+		const { isFirstImage } = this.state;
 		return(
 			<>
 				<div className="section-area bg-primary section-sp1 our-story popp">
@@ -32,10 +45,15 @@ class Start extends Component{
 								</div>
 								<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>
 							</div>
-							<div className="col-lg-7 col-md-12 heading-bx p-lr">
-								<div className="video-bx">
-									<img src={huvudentre} alt=""/>
-								</div>
+							<div className="col-lg-7 col-md-12 p-lr">
+								<div className="video-bx image-container">
+								<img
+          src={isFirstImage ? huvudentre: aboutPic1}
+          alt={isFirstImage ? "Image 1" : "Image 2"}
+		  style={{maxWidth:'960px',maxHeight:'960px'}}
+		  width='960'
+		  height='960'
+        />								</div>
 							</div>
 						</div>
 					</div>
