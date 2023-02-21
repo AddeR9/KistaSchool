@@ -4,6 +4,7 @@ import ModalVideo from 'react-modal-video'
 
 // Images
 import aboutPic1 from './images/bilder/fasad/kistaschoolfirst.jpg';
+import huvudentre from './images/bilder/fasad/bakgrund_huvudentre.jpeg';
 
 class Start extends Component{
 	
@@ -33,7 +34,7 @@ class Start extends Component{
 							</div>
 							<div className="col-lg-7 col-md-12 heading-bx p-lr">
 								<div className="video-bx">
-									<img src={aboutPic1} alt=""/>
+									<img src={huvudentre} alt=""/>
 								</div>
 							</div>
 						</div>
