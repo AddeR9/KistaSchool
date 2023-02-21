@@ -7,8 +7,13 @@ jobs:
   build-and-deploy:
     name: Build and Deploy
     runs-on: ubuntu-latest'
-    
+
     steps:
+    - name: Use Node.js v16.x
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16.x
+
     - name: Checkout
       uses: actions/checkout@v2
 
