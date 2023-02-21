@@ -101,6 +101,7 @@ class Header extends Component{
 										<li><Link to="#">Information<i className="fa fa-chevron-down"></i></Link>
 										<ul className="sub-menu">
 										<li><Link to={{ pathname: "https://www.infomentor.se" }} target="_blank">Infomentor</Link></li>
+										<li><Link to={{ pathname: " http://kista.welib.se/#/" }} target="_blank">Skolbiblioteket</Link></li>
 										<li><Link to={{ pathname: "https://utbildningsguiden.skolverket.se/skolenhet?schoolUnitID=37556682" }} target="_blank">Skolverkets jämförelsesida</Link></li>
 										<li><Link to={{ pathname: "https://www.skolverket.se/" }} target="_blank">Skolverkets hemsida</Link></li>
 										<li><Link to="/datum">Läsårstider</Link></li>
