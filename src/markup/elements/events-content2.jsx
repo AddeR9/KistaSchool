@@ -84,7 +84,7 @@ const content = [
 	},
 	{ 
 		title: "Skolavslutning",		
-		date: "12",
+		date: "14",
 		month: "Juni",
 	},
 	{ 
