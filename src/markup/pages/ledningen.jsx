@@ -194,7 +194,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-info">
 														<h4>Ahmed Omer Abdi</h4>
-														<span>IT - Systemutvacklare</span>
+														<span>IT - Samordnare</span>
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">ahmed.omer@kistaschool.se</a>
