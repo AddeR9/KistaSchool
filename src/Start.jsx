@@ -4,7 +4,7 @@ import ModalVideo from 'react-modal-video'
 
 // Images
 import aboutPic1 from './images/bilder/fasad/backgrund.jpg';
-import huvudentre from './images/bilder/fasad/huvudentre_v4.jpg';
+import huvudentre from './images/bilder/fasad/huvudentre_april23.jpg';
 
 class Start extends Component{
 	
