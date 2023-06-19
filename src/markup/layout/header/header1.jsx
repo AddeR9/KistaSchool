@@ -73,7 +73,7 @@ class Header extends Component{
 								{/* <!-- Author Nav ==== --> */}
 								<div className="secondary-menu">
 									<div className="secondary-inner">
-									<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>											
+									<Link to={{ pathname: "https://apply.meitner.se/organizations/27e927c8-f648-4110-8be1-fea6a3acce4c/schools/38690f73-b7af-4d3e-a457-e0ae7818484c/applications/new" }} target="_blank" className="btn">Ansök</Link>											
 									</div>
 								</div>
 								{/* <!-- Navigation Menu ==== --> */}
@@ -94,14 +94,14 @@ class Header extends Component{
 											<li><Link to="/kontaktaoss">Kontakta skolan</Link></li>
 											<li><Link to="/ledningen">Kontakta personal</Link></li>
 											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål och synpunkter</Link></li>	
-											<li><Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank">Ansök till vår skola</Link></li>				
+											<li><Link to={{ pathname: "https://apply.meitner.se/organizations/27e927c8-f648-4110-8be1-fea6a3acce4c/schools/38690f73-b7af-4d3e-a457-e0ae7818484c/applications/new" }} target="_blank">Ansök till vår skola</Link></li>				
 											</ul>
 										</li>
 
 										<li><Link to="#">Information<i className="fa fa-chevron-down"></i></Link>
 										<ul className="sub-menu">
 										<li><Link to={{ pathname: "https://familjehuset.stockholm/" }} target="_blank">Familjehusen</Link></li>
-										<li><Link to={{ pathname: "https://www.infomentor.se" }} target="_blank">Infomentor</Link></li>
+										<li><Link to={{ pathname: "https://www.meitner.se/" }} target="_blank">Meitner</Link></li>
 										<li><Link to={{ pathname: " http://kista.welib.se/#/" }} target="_blank">Skolbiblioteket</Link></li>
 										<li><Link to={{ pathname: "https://utbildningsguiden.skolverket.se/skolenhet?schoolUnitID=37556682" }} target="_blank">Skolverkets jämförelsesida</Link></li>
 										<li><Link to={{ pathname: "https://www.skolverket.se/" }} target="_blank">Skolverkets hemsida</Link></li>

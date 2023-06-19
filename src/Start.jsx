@@ -43,7 +43,7 @@ class Start extends Component{
 									<h3 className="title-head">Kista International School</h3>
 									<p className="text-white">Kista International School kan stoltsera sig med att tillhöra de skolor som uppnår goda kunskapsresultat varje år i Sverige med hänsyn taget till barnens socioekonomiska förutsättningar. Framgångsfaktorerna är flera; drivkraft och stabilitet i skolledningen, ett stort engagemang bland våra anställda, samt viljan att utveckla och förbättra de olika skolverksamheterna.</p>
 								</div>
-								<Link to={{ pathname: "https://infomentor.ledaco.net/kis/form.php" }} target="_blank" className="btn">Ansök</Link>
+								<Link to={{ pathname: "https://apply.meitner.se/organizations/27e927c8-f648-4110-8be1-fea6a3acce4c/schools/38690f73-b7af-4d3e-a457-e0ae7818484c/applications/new" }} target="_blank" className="btn">Ansök</Link>
 							</div>
 							<div className="col-lg-7 col-md-12 p-lr">
 								<div className="video-bx image-container">
