@@ -53,6 +53,7 @@ import TestPage from './markup/pages/testpage';
 // Ledningen
 import Ledningen from './markup/pages/ledningen'
 import skolanshistoria from './markup/pages/skolans-historia';
+import SkolStarten from './markup/pages/skolstarten';
 import skolansverksamheter from './markup/pages/skolans-verksameter';
 import EventsContent2 from './markup/elements/events-content2';
 
@@ -73,6 +74,7 @@ function App() {
 						<Route path='/kortfakta' exact component={kortfakta} />
 						<Route path='/skolans-historia' exact component={skolanshistoria} />
 						<Route path='/skolans-verksamheter' exact component={skolansverksamheter} />
+						<Route path='/skolstarten' exact component={SkolStarten} />
 						
 		
 						
