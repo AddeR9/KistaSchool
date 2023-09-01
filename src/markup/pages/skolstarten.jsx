@@ -4,7 +4,7 @@ import React, {Component} from 'react';
 import Header from "../layout/header/header1";
 import ContactInfoCard from '../elements/contact-info-card';
 
-class SkolStarten extends Component{
+class Läxhjälp extends Component{
 	
 	render(){
 		return (
@@ -50,4 +50,4 @@ class SkolStarten extends Component{
 	}
 }
 
-export default SkolStarten;
+export default Läxhjälp;
