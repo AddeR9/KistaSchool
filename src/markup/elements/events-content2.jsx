@@ -18,7 +18,7 @@ const content = [
 		month: "Höstlov",
 	},
 	{ 
-		title: "Lovskola 1-3 november",		
+		title: "Lovskola 30 oktober till 2 november",		
 		date: "",
 		month: "Lovskola",
 	},
@@ -48,7 +48,7 @@ const content = [
 		month: "Sportlov",
 	},
 	{ 
-		title: "Lovskola 26 februari till 1 mars",		
+		title: "Lovskola 26 februari till 29 februari",		
 		date: "",
 		month: "Lovskola",
 	},
@@ -88,9 +88,9 @@ const content = [
 		month: "Juni",
 	},
 	{ 
-		title: "Lovskola",		
+		title: "Lovskola 17-20 juni",		
 		date: "",
-		month: "Juni",
+		month: "Lovskola",
 	}
 ]
 
