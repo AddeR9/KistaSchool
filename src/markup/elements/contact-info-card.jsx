@@ -11,6 +11,7 @@ class ContactInfoCard extends Component{
 					</div>
 					<div className="widget widget_getintuch">	
 						<ul>
+							<li><i className="ti-location-pin"></i>Expeditionstid Måndag-Fredag Kl. 08:00-16:00</li>
 							<li><i className="ti-location-pin"></i>Sibeliusgången 11, 164 77 Kista</li>
 							<li><i className="ti-mobile"></i>08-510 602 90</li>
 							<li><i className="ti-info"></i>info@kistaschool.se</li>
