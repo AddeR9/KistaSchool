@@ -10,9 +10,9 @@ import OurStory2 from '../elements/our-story/our-story2';
 import ServicesContent3 from '../elements/services-content-3';
 import AppointmentBox from '../elements/appointment-box';
 import EventsContent2 from '../elements/events-content2';
+
 import Testimonial3 from '../elements/testimonial3';
 import PopularCoursesSlider2 from '../elements/popular-courses-slider2';
-
 // Images
 import bg4 from '../../images/background/bg4.jpg';
 
@@ -63,6 +63,7 @@ class Index3 extends Component{
 						<AppointmentBox />
 						
 						<EventsContent2 />
+						
 												
 						<OurStory2 />
 						

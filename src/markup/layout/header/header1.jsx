@@ -100,13 +100,14 @@ class Header extends Component{
 
 										<li><Link to="#">Information<i className="fa fa-chevron-down"></i></Link>
 										<ul className="sub-menu">
-										{<li><Link to={{ pathname: "/laxhjalp" }}>Läxhjälp</Link></li> }
+										{<li><Link to={{ pathname: "/Laxhjalp" }}>Läxhjälp</Link></li> }
 										<li><Link to={{ pathname: "https://familjehuset.stockholm/" }} target="_blank">Familjehusen</Link></li>
 										<li><Link to={{ pathname: "https://www.meitner.se/" }} target="_blank">Meitner</Link></li>
 										<li><Link to={{ pathname: " http://kista.welib.se/#/" }} target="_blank">Skolbiblioteket</Link></li>
 										<li><Link to={{ pathname: "https://utbildningsguiden.skolverket.se/skolenhet?schoolUnitID=37556682" }} target="_blank">Skolverkets jämförelsesida</Link></li>
 										<li><Link to={{ pathname: "https://www.skolverket.se/" }} target="_blank">Skolverkets hemsida</Link></li>
-										<li><Link to="/datum">Läsårstider</Link></li>
+										<li><Link to="/lasar2324">Läsårstider 2023/2024</Link></li>
+										<li><Link to="/lasar2425">Läsårstider 2024/2025</Link></li>
 											</ul>
 										</li> 
 									</ul>

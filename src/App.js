@@ -56,6 +56,7 @@ import skolanshistoria from './markup/pages/skolans-historia';
 import Laxhjalp from './markup/pages/laxhjalp';
 import skolansverksamheter from './markup/pages/skolans-verksameter';
 import EventsContent2 from './markup/elements/events-content2';
+import EventsContent3 from './markup/elements/events-content3';
 
 
 
@@ -79,8 +80,8 @@ function App() {
 		
 						
 						{/* Events */}
-						<Route path='/datum' exact component={EventsContent2} />				
-						
+						<Route path='/lasar2324' exact component={EventsContent2} />				
+						<Route path='/lasar2425' exact component={EventsContent3} />
 						{/* Events */}
 						<Route path='/nyheter' exact component={BlogDetails} />						
 
