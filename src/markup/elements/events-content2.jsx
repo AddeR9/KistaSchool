@@ -109,16 +109,13 @@ class EventsContent2 extends Component{
 						<div className="row">
 							{content.map((item) =>(
 								<div className="col-md-12">
-									<div className="event-bx style1">
-										<div className="action-box">
-										
-										</div>
-										<div className="info-bx">
-												<h4 className="event-title float-right">{item.title}</h4>
-										</div>
-										<div className="event-time">
+									<div className="flex">
+										<div className="flex-column">
 											<div className="event-date">{item.date}</div>
-											<div className="event-month">{item.month}</div>
+											<div className="">{item.month}</div>
+										</div>
+										<div className="text">
+												<h4 className="">{item.title}</h4>
 										</div>
 									</div>
 								</div>

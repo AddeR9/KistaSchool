@@ -1515,6 +1515,9 @@ ol.comment-list li .children li {
     }
 }
 @media only screen and (max-width: 480px) {
+	.flex-column{
+		flex-shrink: unset;
+	}
     ol.comment-list li.comment .comment-body {
         margin-left: 52px;
     }
@@ -2491,6 +2494,55 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5e14', end
 	box-shadow:0px 5px 20px rgba(0, 0, 0, 0.05);
 	overflow: hidden;
     border-radius: 4px;
+}
+
+.flex{
+display: flex;
+justify-content: space-between;
+height: 100%;
+
+}
+.upcoming-event-carousel .item{
+	padding:15px;
+}
+.flex{
+	display:flex;
+	box-shadow: 0 0 30px 0 rgba(0, 86, 106, 0.15);
+	border-radius: 6px;
+	overflow: hidden;
+	margin-bottom:30px;
+	background: #fff;
+	transition:all 0.5s;
+	-webkit-transition:all 0.5s;
+	-moz-transition:all 0.5s;
+	-o-transition:all 0.5s;
+	-ms-transition:all 0.5s;
+	position: relative;
+}
+.flex-column{
+display: flex;
+flex-direction: column;
+height: 100%;
+justify-content: space-between;
+align-items: center;
+color: #fff;
+background-color: var(--primary);
+text-align: center;
+padding: 10px 15px;
+border-radius: 4px;
+margin-right: 20px;
+width: 140px;
+font-size: 28px;
+height: 80%;
+align-self: center;
+flex-shrink: 0;
+}
+.text{
+    width: 100%;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+
 }
 .upcoming-event-carousel .item{
 	padding:15px;
