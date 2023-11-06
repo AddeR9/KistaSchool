@@ -15,82 +15,82 @@ const content = [
 	{ 
 		title: "Studiedag - eleverna lediga",		
 		date: "25",
-		month: "oktober",
+		month: "Oktober",
 	},
 	{ 
 		title: "Höstlov 28 oktober till 1 november",		
 		date: "28",
-		month: "oktober",
+		month: "Oktober",
 	},
 	{ 
 		title: "Studiedag, dag för utvecklingssamtal men eleverna är lediga",		
 		date: "13",
-		month: "november",
+		month: "November",
 	},
 	{ 
 		title: "Julavslutning",		
 		date: "20",
-		month: "december",
+		month: "December",
 	},
 	{ 
 		title: "Jullov 21 december till 7 januari",		
 		date: "21",
-		month: "december",
+		month: "December",
 	},
 	{ 
 		title: "Elevernas första dag 8 januari",		
 		date: "8",
-		month: "januari",
+		month: "Januari",
 	},
 	{ 
 		title: "Sportlov 24-28 februari",		
 		date: "24",
-		month: "februari",
+		month: "Februari",
 	},
 	{ 
 		title: "Lovskola 24-27 februari",		
 		date: "24",
-		month: "februari",
+		month: "Februari",
 	},
 	{ 
 		title: "Studiedag, dag för utvecklingssamtal men eleverna är lediga",		
 		date: "19",
-		month: "mars",
+		month: "Mars",
 	},
 	{ 
 		title: "Påsklov 14-21 april",		
 		date: "14",
-		month: "april",
+		month: "April",
 	},
 	{ 
 		title: "Lovskola 14-17 april",		
 		date: "14",
-		month: "april",
+		month: "April",
 	},
 	{ 
 		title: "Eid 25 april ledigt (kan eventuellt ändras till annan dag)",		
 		date: "25",
-		month: "april",
+		month: "April",
 	},
 	{ 
 		title: "1-2 maj ledigt",		
 		date: "1",
-		month: "maj",
+		month: "Maj",
 	},
 	{ 
 		title: "30 maj ledigt",		
 		date: "30",
-		month: "maj",
+		month: "Maj",
 	},
 	{ 
 		title: "6 juni ledigt",		
 		date: "6",
-		month: "juni",
+		month: "Juni",
 	},
 	{ 
 		title: "Skolavslutning 12 juni",		
 		date: "12",
-		month: "juni",
+		month: "Juni",
 	},
 	
 ]
