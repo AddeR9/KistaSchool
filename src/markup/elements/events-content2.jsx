@@ -23,12 +23,17 @@ const content = [
 		month: "Lovskola",
 	},
 	{ 
-		title: "Studiedag 15 november, dag för utvecklingssamtal men eleverna är lediga",		
+		title: "Studiedag 15 november, dag för utvecklingssamtal",		
 		date: "",
 		month: "Studiedag",
 	},
 	{ 
-		title: "Julavslutning",		
+		title: "fritids stängt (studiedag)",		
+		date: "15",
+		month: "November",
+	},
+	{ 
+		title: "Julavslutning, men fritids öppet för elever som stannar längre än avslutningen",		
 		date: 22,
 		month: "December",
 	},
@@ -36,6 +41,22 @@ const content = [
 		title: "Jullov 23 december till 8 januari",		
 		date: "",
 		month: "Jullov",
+	},
+
+	{ 
+		title: "fritids stängt (helgdag)",		
+		date: "25-26",
+		month: "December",
+	},
+	{ 
+		title: "fritids stängt (helgdag)",		
+		date: "01",
+		month: "Januari",
+	},
+	{ 
+		title: "fritids stängt (studiedag)",		
+		date: "08",
+		month: "Januari",
 	},
 	{ 
 		title: "Elevernas första dag",		
@@ -53,6 +74,11 @@ const content = [
 		month: "Lovskola",
 	},
 	{ 
+		title: "fritids stängt (studiedag)",		
+		date: "29",
+		month: "Februari",
+	},
+	{ 
 		title: "Dag för utvecklingssamtal men eleverna är lediga",		
 		date: 20,
 		month: "Mars",
@@ -63,12 +89,27 @@ const content = [
 		month: "Påsklov ",
 	},
 	{ 
+		title: "fritids stängt (helgdag)",		
+		date: "29",
+		month: "Mars",
+	},
+	{ 
+		title: "fritids stängt (helgdag)",		
+		date: "01",
+		month: "April",
+	},
+	{ 
 		title: "Lovskola 2-5 april",		
 		date: "",
 		month: "Lovskola",
 	},
 	{ 
-		title: "Ledigt",		
+		title: "fritids stängt (studiedag)",		
+		date: "05",
+		month: "April",
+	},
+	{ 
+		title: "Ledigt, fritids stängt (helgdag)",		
 		date: "1",
 		month: "Maj",
 	},
@@ -78,12 +119,22 @@ const content = [
 		month: "Maj",
 	},
 	{ 
+		title: "fritids stängt (helgdag)",		
+		date: "9",
+		month: "Maj",
+	},
+	{ 
 		title: "Ledigt",		
 		date: "6-7",
 		month: "Juni",
 	},
 	{ 
-		title: "Skolavslutning",		
+		title: "fritids stängt (helgdag)",		
+		date: "6",
+		month: "Juni",
+	},
+	{ 
+		title: "Skolavslutning, men fritids öppet för elever som stannar längre än avslutningen",		
 		date: "12",
 		month: "Juni",
 	},
