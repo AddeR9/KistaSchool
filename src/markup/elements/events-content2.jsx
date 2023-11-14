@@ -109,7 +109,7 @@ const content = [
 		month: "April",
 	},
 	{ 
-		title: "Eid 19 april ledigt (kan eventuellt ändras till annan dag)",		
+		title: "Eid 9 april ledigt (kan eventuellt ändras till annan dag)",		
 		date: "9",
 		month: "April",
 	},
