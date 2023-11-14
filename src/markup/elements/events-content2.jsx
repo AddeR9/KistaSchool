@@ -109,6 +109,11 @@ const content = [
 		month: "April",
 	},
 	{ 
+		title: "Eid 19 april ledigt (kan eventuellt ändras till annan dag)",		
+		date: "19",
+		month: "April",
+	},
+	{ 
 		title: "Ledigt, fritids stängt (helgdag)",		
 		date: "1",
 		month: "Maj",
