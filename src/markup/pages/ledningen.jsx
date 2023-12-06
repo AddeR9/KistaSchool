@@ -41,6 +41,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">kenny.fredholm@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46722320004</li>
 													</div>
 												</div>
 											</div>
@@ -55,6 +56,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">nasser.husein@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46704252090</li>
 													</div>										
 												</div>
 											</div>
@@ -69,6 +71,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">helen.tornqvist@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46769498193</li>
 													</div>										
 												</div>
 											</div>
@@ -86,6 +89,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">abdi.ali@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46736757029</li>
 													</div>
 												</div>
 											</div>
@@ -100,6 +104,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">dahir.jeite@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46762423100</li>
 													</div>										
 												</div>
 											</div>
@@ -114,6 +119,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">mohamed.abdulle@kistaschool.se</a>
+													<li><i className="ti-mobile">+46762155875</i></li>
 													</div>										
 												</div>
 											</div>
@@ -128,6 +134,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">zeinab.abukar@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46720850963</li>
 													</div>
 												</div>
 											</div>
@@ -142,6 +149,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">saron.zeru@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46707291433</li>
 													</div>										
 												</div>
 											</div>
@@ -156,6 +164,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">yerosalim.asgodom@kistaschool.se</a>
+													<li><i className="ti-mobile">+46704256884</i></li>
 													</div>
 												</div>
 											</div>
@@ -170,6 +179,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">olivia.kaminska@kistaschool.se</a>
+													<li><i className="ti-mobile">+46768511118</i></li>
 													</div>										
 												</div>
 											</div>
@@ -184,6 +194,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">fariba.reihanchi@kistaschool.se</a>
+													<li><i className="ti-mobile">+46736266578</i></li>
 													</div>										
 												</div>
 											</div>
@@ -198,6 +209,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">ahmed.omer@kistaschool.se</a>
+													<li><i className="ti-mobile">+46790661792</i></li>
 													</div>
 												</div>
 											</div>
@@ -212,6 +224,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">hiwa.zangana@kistaschool.se</a>
+													<li><i className="ti-mobile">+46737644757</i></li>
 													</div>										
 												</div>
 											</div>
@@ -226,6 +239,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">andres.lagunas@kistaschool.se</a>
+													<li><i className="ti-mobile">+46704256880</i></li>
 													</div>										
 												</div>
 											</div>
