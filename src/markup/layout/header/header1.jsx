@@ -87,6 +87,7 @@ class Header extends Component{
 												<li><Link to="/skolans-historia">Skolans historia</Link></li>
 												{/* <li><Link to="/kortfakta">Kort fakta</Link></li> */}
 												<li><Link to="/skolans-verksamheter">Skolans verksamheter</Link></li>
+												<li><Link to="/Skolans-Karaktar">Skolans karaktär</Link></li>
 											</ul>
 										</li>
 										<li><Link to="#">Kontakta oss<i className="fa fa-chevron-down"></i></Link>

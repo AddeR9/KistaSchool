@@ -55,6 +55,7 @@ import Ledningen from './markup/pages/ledningen'
 import skolanshistoria from './markup/pages/skolans-historia';
 import Laxhjalp from './markup/pages/laxhjalp';
 import skolansverksamheter from './markup/pages/skolans-verksameter';
+import Skolanskaraktar from './markup/pages/Skolans-Karaktar';
 import EventsContent2 from './markup/elements/events-content2';
 import EventsContent3 from './markup/elements/events-content3';
 
@@ -75,6 +76,8 @@ function App() {
 						<Route path='/kortfakta' exact component={kortfakta} />
 						<Route path='/skolans-historia' exact component={skolanshistoria} />
 						<Route path='/skolans-verksamheter' exact component={skolansverksamheter} />
+						<Route path='/skolans-karaktar' exact component={Skolanskaraktar} />
+						
 						<Route path='/laxhjalp' exact component={Laxhjalp} />
 						
 		

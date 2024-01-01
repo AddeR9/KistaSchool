@@ -24,7 +24,7 @@ class skolansverksamheter extends Component{
 									<div className="col-lg-8 col-xl-8">
 										<div className="recent-news blog-lg">
 											<div className="info-bx">
-												<p>Kista International School är en skola som har utbildning från förskoleklass ända upp till årskurs 9, en så kallad F-9 skola. Skolan har ökat konstant de senaste åren och läsåret 2023/2024 är det ca 660 elever, vilket är en ökning med ca 60 elever i jämförelse med föregående läsår. Det är fyra klasser per årskurs på lågstadiet, tre klasser per årskurs på mellanstadiet och två eller tre klasser per årskurs på högstadiet. Inom ett par år kommer skolan att vara tre till fyra klasser per årskurs fullt ut. Skolan är med det sagt mycket populär så om du är intresserad av plats så vänta inte med att ansöka.</p>
+											<p>Kista International School är en skola som har utbildning från förskoleklass ända upp till årskurs 9, en så kallad F-9 skola. Skolan har ökat konstant de senaste åren och läsåret 2023/2024 är det ca 660 elever, vilket är en ökning med ca 60 elever i jämförelse med föregående läsår. Det är fyra klasser per årskurs på lågstadiet, tre klasser per årskurs på mellanstadiet och två eller tre klasser per årskurs på högstadiet. Inom ett par år kommer skolan att vara tre till fyra klasser per årskurs fullt ut. Skolan är med det sagt mycket populär så om du är intresserad av plats så vänta inte med att ansöka.</p>
                         <br/>
                         <p>Skolan värnar om en god värdegrund, professionell personal, god undervisning och tydliga ramar och strukturer. Därför lyckas också skolan väl med elevernas social utveckling och kunskapsutveckling där eleverna har höga meritvärden, i synnerhet med tanke på elevernas förutsättningar och bakgrund.</p>
                         <br/>
@@ -33,6 +33,10 @@ class skolansverksamheter extends Component{
                         <p>Skolan har också en stor och välorganiserad fritidsverksamhet där det finns organiserade rast- och fritidsaktiviteter för eleverna både på låg- och mellanstadiet. Våra duktiga fritidspedagoger arbetar också som klassassistenter på låg- och mellanstadiet vilket innebär att vi på de allra flesta lektioner har minst två personal, alternativt att det är halvklass.</p>
 						<br/>
 						<p>För att värna om elevernas trivsel och trygghet så har vi två skolvärdar på skolan som arbetar för att eleverna skall trivas och känna sig trygga men också som stöd för all personal i arbetet utanför lektionssalarna.</p>
+
+
+						
+						
 
                       </div>
 										</div>
