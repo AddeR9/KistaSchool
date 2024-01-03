@@ -75,7 +75,7 @@ class Skolanskaraktar extends Component{
 						<p>Where teachers ignite the flame of ambition,</p>
 						<p>where students are kind and compassionate.</p>
 						<p>Ten years have gone by,</p>
-						<p>A lifetime for many, but just a decade for me.</p>
+						<p>a lifetime for many, but just a decade for me.</p>
 						<p> <em>Mithra Pai, lärare matematik och engelska</em> </p>
 						<br/><h4>“We Stand”</h4><br/>
 						<p>It all started with a vision, Kista International School was risen. We opened in 2010 and students started writing with their pen. Traveling near and far on a school bus, your education is very important to us.</p>
