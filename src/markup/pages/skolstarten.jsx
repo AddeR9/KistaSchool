@@ -23,7 +23,7 @@ class Öppethus extends Component{
 									<div className="col-lg-8 col-xl-8">
 										<div className="recent-news blog-lg">
 											<div className="info-bx">
-												<p>Öppet hus för föräldrar som är intresserade av att ansöka om plats till förskoleklass nästa läsår. Det finns möjlighet att komma vid två tillfällen. Onsdag den 17 januari klockan 17.00-19.30 och torsdag 1 februari klockan 17.00-19.00.</p>
+												<p>Öppet hus för föräldrar som är intresserade av att ansöka om plats till förskoleklass nästa läsår. Det finns möjlighet att komma vid två tillfällen. Onsdag den 17 januari klockan 17.00-19.30 och fredag 2 februari klockan 17.00-19.00.</p>
                         <br/>
                         <br/>
                         <p> Välkomna!</p>
