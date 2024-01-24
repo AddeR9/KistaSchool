@@ -69,7 +69,7 @@ const content = [
 		month: "Sportlov",
 	},
 	{ 
-		title: "Lovskola 26 februari till 28 februari",		
+		title: "Lovskola 26 februari till 29 februari",		
 		date: "",
 		month: "Lovskola",
 	},
