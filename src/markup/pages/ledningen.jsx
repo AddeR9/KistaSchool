@@ -129,6 +129,21 @@ class Ledningen extends Component{
 														<img src={profilePic1} alt=""/>
 													</div>
 													<div className="profile-info">
+                          <h4>Sharif Abdi</h4>
+														<span>Ansvarig för ansökan till förskoleklass</span>
+													</div>
+													<div className="profile-social">
+													<i className="fa fa-envelope"></i> <a to="#">sharif.abdi@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46739845738</li>
+													</div>										
+												</div>
+											</div>
+											<div className="col-lg-4 col-md-4 col-sm-12 m-b30">
+												<div className="profile-bx text-center">
+													<div className="user-profile-thumb">
+														<img src={profilePic1} alt=""/>
+													</div>
+													<div className="profile-info">
 														<h4>Zeinab Abukar</h4>
 														<span>Studievägledare</span>
 													</div>
