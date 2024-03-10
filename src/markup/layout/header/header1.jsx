@@ -101,7 +101,9 @@ class Header extends Component{
 
 										<li><Link to="#">Information<i className="fa fa-chevron-down"></i></Link>
 										<ul className="sub-menu">
-										{<li><Link to={{ pathname: "/skolstarten" }}>Öppet hus</Link></li> }
+										<li><Link to={{ pathname: "https://kollpasoc.se" }} target="_blank">Socialtjänsten (Koll på soc)</Link></li>
+
+										{/* {<li><Link to={{ pathname: "/skolstarten" }}>Öppet hus</Link></li> } */}
 										{<li><Link to={{ pathname: "/Laxhjalp" }}>Läxhjälp</Link></li> }
 										<li><Link to={{ pathname: "https://familjehuset.stockholm/" }} target="_blank">Familjehusen</Link></li>
 										<li><Link to={{ pathname: "https://www.meitner.se/" }} target="_blank">Meitner</Link></li>
