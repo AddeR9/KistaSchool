@@ -15,7 +15,7 @@ class ContactInfoCard extends Component{
 							<li><i className="ti-location-pin"></i>Sibeliusgången 11, 164 77 Kista</li>
 							<li><i className="ti-mobile"></i>08-510 602 90</li>
 							<li><i className="ti-info"></i>info@kistaschool.se</li>
-							<li><i className="ti-email"></i>Helsingsforsgatan 10, 164 77 Kista</li>
+							{/*<li><i className="ti-email"></i>Helsingsforsgatan 10, 164 77 Kista</li> */}
 						</ul>
 					</div>
 					<h5 className="m-t0 m-b20">Följ oss</h5>
