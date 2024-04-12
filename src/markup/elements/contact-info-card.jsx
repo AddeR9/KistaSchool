@@ -10,7 +10,7 @@ class ContactInfoCard extends Component{
 						<h3 className="m-b10 title-head">Kontakt <span> Info</span></h3>
 					</div>
 					<div className="widget widget_getintuch">	
-						<ul>
+						<ul className='bigSize'>
 							<li><i className="ti-location-pin"></i>Expeditionstid Måndag-Fredag Kl. 08:00-16:00</li>
 							<li><i className="ti-location-pin"></i>Sibeliusgången 11, 164 77 Kista</li>
 							<li><i className="ti-mobile"></i>08-510 602 90</li>
@@ -19,7 +19,7 @@ class ContactInfoCard extends Component{
 						</ul>
 					</div>
 					<h5 className="m-t0 m-b20">Följ oss</h5>
-					<ul className="list-inline contact-social-bx m-b0">
+					<ul className="list-inline contact-social-bx m-b0 bigSize" >
 						<li><Link to={{ pathname: "https://sv-se.facebook.com/KistaSchool/" }} target="_blank" className="btn outline radius-xl"><i className="fa fa-facebook"></i></Link></li>
 					</ul>
 							<div className="row">

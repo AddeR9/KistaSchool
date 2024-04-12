@@ -467,6 +467,9 @@
 .ti-location-pin:before {
 	content: "\e693";
 }
+.bigSize {
+	font-size: 1.5rem;
+}
 .ti-list:before {
 	content: "\e694";
 }
