@@ -94,7 +94,11 @@ class Header extends Component{
 											<ul className="sub-menu">
 											<li><Link to="/kontaktaoss">Kontakta skolan</Link></li>
 											<li><Link to="/ledningen">Kontakta personal</Link></li>
-											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål och synpunkter</Link></li>	
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål och synpunkter</Link></li>
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-ledighetsansokan/" }} target="_blank">Ledighetsansökan</Link></li>
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-andrad-adress-eller-kontaktuppgifter/" }} target="_blank">Ändrad adress eller kontaktuppgifter</Link></li>
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/uppsagning-av-skolplats/" }} target="_blank">Uppsägning av skolplats</Link></li>
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-uppsagning-av-fritidsplats/" }} target="_blank">Uppsägning av fritidsplats</Link></li>
 											<li><Link to={{ pathname: "https://apply.meitner.se/organizations/27e927c8-f648-4110-8be1-fea6a3acce4c/schools/38690f73-b7af-4d3e-a457-e0ae7818484c/applications/new" }} target="_blank">Ansök till vår skola</Link></li>				
 											</ul>
 										</li>
