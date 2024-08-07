@@ -83,9 +83,9 @@ function App() {
 						
 		
 						
-						{/* Events */}
-						<Route path='/lasar2324' exact component={EventsContent2} />				
+						{/* Events */}									
 						<Route path='/lasar2425' exact component={EventsContent3} />
+						<Route path='/lasar2526' exact component={EventsContent2} />
 						{/* Events */}
 						<Route path='/nyheter' exact component={BlogDetails} />						
 

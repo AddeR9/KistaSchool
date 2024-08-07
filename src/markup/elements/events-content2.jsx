@@ -9,108 +9,81 @@ import ContactInfoCard from './contact-info-card';
 const content = [
 	{ 
 		title: "Elevernas första dag",		
-		date: 21,
+		date: 18,
 		month: "Augusti",
 	},
 	{ 
-		title: "Höstlov 30 oktober till 3 november",		
-		date: "",
+		title: "PRAO åk 8, 6-17 Oktober",		
+		date: 6,
+		month: "Oktober",
+	},
+	{ 
+		title: "Studiedag - eleverna lediga",		
+		date: 24,
+		month: "Oktober",
+	},
+	{ 
+		title: "Höstlov 27-31 oktober",		
+		date: "27",
 		month: "Höstlov",
 	},
 	{ 
-		title: "Lovskola 31 oktober till 3 november",		
+		title: "Lovskola 27-30 oktober",		
 		date: "",
 		month: "Lovskola",
 	},
 	{ 
-		title: "Studiedag 15 november, dag för utvecklingssamtal",		
-		date: "",
-		month: "Studiedag",
-	},
-	{ 
-		title: "fritids stängt (studiedag)",		
-		date: "15",
+		title: "Dag för utvecklingssamtal, men eleverna är lediga",		
+		date: "12",
 		month: "November",
 	},
 	{ 
-		title: "Julavslutning, men fritids öppet för elever som stannar längre än avslutningen",		
-		date: 22,
+		title: "Julavslutning",		
+		date: 19,
 		month: "December",
 	},
 	{ 
-		title: "Jullov 23 december till 8 januari",		
+		title: "Jullov 22 december till 7 januari",		
 		date: "",
 		month: "Jullov",
 	},
 
-	{ 
-		title: "fritids stängt (helgdag)",		
-		date: "25-26",
-		month: "December",
-	},
-	{ 
-		title: "fritids stängt (helgdag)",		
-		date: "01",
-		month: "Januari",
-	},
-	{ 
-		title: "fritids stängt (studiedag)",		
-		date: "08",
-		month: "Januari",
-	},
+	
 	{ 
 		title: "Elevernas första dag",		
-		date: "9",
+		date: "8",
 		month: "Januari",
 	},
 	{ 
-		title: "Sportlov 26 februari till 1 mars",		
+		title: "Sportlov 23-27 februari",		
 		date: "",
 		month: "Sportlov",
 	},
 	{ 
-		title: "Lovskola 26 februari till 29 februari",		
+		title: "Lovskola 23-26 februari",		
 		date: "",
 		month: "Lovskola",
 	},
+	
 	{ 
-		title: "fritids stängt (studiedag)",		
-		date: "26",
-		month: "Februari",
-	},
-	{ 
-		title: "Dag för utvecklingssamtal men eleverna är lediga",		
-		date: 20,
+		title: "Dag för utvecklingssamtal, men eleverna är lediga",		
+		date: 18,
 		month: "Mars",
 	},
 	{ 
-		title: "Påsklov 29 mars till 5 april",		
+		title: "Påsklov 3-10 april",		
 		date: "",
 		month: "Påsklov ",
 	},
+	
 	{ 
-		title: "fritids stängt (helgdag)",		
-		date: "29",
-		month: "Mars",
-	},
-	{ 
-		title: "fritids stängt (helgdag)",		
-		date: "01",
-		month: "April",
-	},
-	{ 
-		title: "Lovskola 2-5 april",		
+		title: "Lovskola 7-10 april",		
 		date: "",
 		month: "Lovskola",
 	},
 	{ 
-		title: "fritids stängt (studiedag)",		
-		date: "05",
-		month: "April",
-	},
-	{ 
-		title: "Eid 10 april (lovdag)",		
-		date: "10",
+		title: "25 april Eid ledigt (Kan eventuellt ändras till annan dag) ",		
+		date: "25",
 		month: "April",
 	},
 	{ 
@@ -120,34 +93,16 @@ const content = [
 	},
 	{ 
 		title: "Ledigt",		
-		date: "9-10",
-		month: "Maj",
-	},
-	{ 
-		title: "fritids stängt (helgdag)",		
-		date: "9",
-		month: "Maj",
-	},
-	{ 
-		title: "Ledigt",		
-		date: "6-7",
+		date: "1",
 		month: "Juni",
 	},
+	
 	{ 
-		title: "fritids stängt (helgdag)",		
-		date: "6",
+		title: "Skolavslutning",		
+		date: "11",
 		month: "Juni",
 	},
-	{ 
-		title: "Skolavslutning, men fritids öppet för elever som stannar längre än avslutningen",		
-		date: "12",
-		month: "Juni",
-	},
-	{ 
-		title: "Lovskola 17-20 juni",		
-		date: "",
-		month: "Lovskola",
-	}
+	
 ]
 
 class EventsContent2 extends Component{
@@ -159,7 +114,7 @@ class EventsContent2 extends Component{
 					<div className="container">
 					<div className="row">
 							<div className="col-md-12 heading-bx left mt-5">
-								<h2 className="title-head">Läsåret <span> 2023/2024</span></h2>
+								<h2 className="title-head">Läsåret <span> 2025/2026</span></h2>
 							</div>
 						</div>
 						<div className="row">
