@@ -13,8 +13,18 @@ const content = [
 		month: "Augusti",
 	},
 	{ 
+		title: "PRAO åk 8, 7-18 Oktober",		
+		date: "7",
+		month: "Oktober",
+	},
+	{ 
 		title: "Studiedag - eleverna lediga",		
 		date: "25",
+		month: "Oktober",
+	},
+	{ 
+		title: "Lovskola 28-31 Oktober",		
+		date: "28",
 		month: "Oktober",
 	},
 	{ 
