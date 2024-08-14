@@ -13,7 +13,7 @@ const content = [
 		month: "Augusti",
 	},
 	{ 
-		title: "PRAO åk 8, 7-18 Oktober",		
+		title: "PRAO åk 8, 24 mars till 4 april",		
 		date: "7",
 		month: "Oktober",
 	},
@@ -78,7 +78,7 @@ const content = [
 		month: "April",
 	},
 	{ 
-		title: "Eid 25 april ledigt (kan eventuellt ändras till annan dag)",		
+		title: "Eid 31 maj ledigt (kan eventuellt ändras till annan dag)",		
 		date: "25",
 		month: "April",
 	},

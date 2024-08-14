@@ -12,11 +12,11 @@ const content = [
 		date: 18,
 		month: "Augusti",
 	},
-	{ 
+/*	{ 
 		title: "PRAO åk 8, 6-17 Oktober",		
 		date: 6,
 		month: "Oktober",
-	},
+	},*/
 	{ 
 		title: "Studiedag - eleverna lediga",		
 		date: 24,
