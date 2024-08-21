@@ -14,8 +14,8 @@ const content = [
 	},
 	{ 
 		title: "PRAO åk 8, 24 mars till 4 april",		
-		date: "7",
-		month: "Oktober",
+		date: "24",
+		month: "mars",
 	},
 	{ 
 		title: "Studiedag - eleverna lediga",		
@@ -79,8 +79,8 @@ const content = [
 	},
 	{ 
 		title: "Eid 31 maj ledigt (kan eventuellt ändras till annan dag)",		
-		date: "25",
-		month: "April",
+		date: "31",
+		month: "maj",
 	},
 	{ 
 		title: "1-2 maj ledigt",		
