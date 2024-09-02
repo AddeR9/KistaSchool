@@ -24,16 +24,9 @@ class Laxhjalp extends Component{
 										<div className="recent-news blog-lg">
 											<div className="info-bx">
 											<h4>Rinkeby folkets hus:</h4>
-												<p>Måndagar kl. 17.00 - 19.00 för elever i åk 4-7.</p>
-												<p>Lördagar och söndagar kl. 15.00-17.00 för elever i åk 8 och 9.</p>
-											<h4>Rinkeby Västerby backe 6:</h4>
-												<p>Onsdagar kl. 17.00 - 19.00</p>
-											<h4>Tensta (Tensta träff):</h4>
-												<p>Tisdagar och torsdagar kl. 17.00 - 19.00</p>
-											<h4>Husby (Folkets Husby):</h4>
-												<p>Måndagar och onsdagar kl. 17.00 - 19.00.</p>
-											<h4>Järfälla (Huset på höjden):</h4>
-												<p>Måndagar och onsdagar kl. 17.30 -19.30.</p>
+												
+												<p>Lördagar och söndagar kl. 15.00-17.00</p>
+											
                         <br/>
                         <br/>
                         <p>Tillsammans hjälper vi eleverna att lyckas! </p>
