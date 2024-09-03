@@ -18,14 +18,16 @@ class Laxhjalp extends Component{
 							<div className="container">
 								<div className="row">
 								<div className="col-md-12 heading-bx left">
-								<h2 className="title-head">Al-Kowneyn Utbildning Centrum erbjuder läxhjälp på flera platser och tider!</h2>
+								<h2 className="title-head">Al-Kowneyn Utbildning Centrum anordnar läxhjälp!</h2>
 							</div>
 									<div className="col-lg-8 col-xl-8">
 										<div className="recent-news blog-lg">
 											<div className="info-bx">
 											<h4>Rinkeby folkets hus:</h4>
 												
-												<p>Lördagar och söndagar kl. 15.00-17.00</p>
+												<p>Lördagar klockan 15.00-17.00 för årskurs 8 och 9</p>
+												<p>Söndagar klockan 15.00-17.00 för årskurs 8 och 9</p>
+												<p>Måndagar klockan 17.00-19.00 för årskurs 7</p>
 											
                         <br/>
                         <br/>
