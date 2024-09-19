@@ -45,6 +45,21 @@ class Ledningen extends Component{
 													</div>
 												</div>
 											</div>
+											<div className="col-lg-4 col-md-4 col-sm-12 m-b30">
+												<div className="profile-bx text-center">
+													<div className="user-profile-thumb">
+														<img src={profilePic1} alt=""/>
+													</div>
+													<div className="profile-info">
+                          <h4>Anna Landehag </h4>
+														<span>Skolchef</span>
+													</div>
+													<div className="profile-social">
+													<i className="fa fa-envelope"></i> <a to="#">anna.landehag@kistaschool.se</a>
+													{/*<li><i className="ti-mobile"></i>+46704252190</li>*/}
+													</div>										
+												</div>
+											</div>
                       <div className="col-lg-4 col-md-4 col-sm-12 m-b30">
 												<div className="profile-bx text-center">
 													<div className="user-profile-thumb">
@@ -144,12 +159,11 @@ class Ledningen extends Component{
 														<img src={profilePic1} alt=""/>
 													</div>
 													<div className="profile-info">
-														<h4>Zeinab Abukar</h4>
+														<h4>Abukar Warsame</h4>
 														<span>Studievägledare</span>
 													</div>
 													<div className="profile-social">
-													<i className="fa fa-envelope"></i> <a to="#">zeinab.abukar@kistaschool.se</a>
-													<li><i className="ti-mobile"></i>+46720850963</li>
+													<i className="fa fa-envelope"></i> <a to="#">abdukar.warsame@kistaschool.se</li>
 													</div>
 												</div>
 											</div>
@@ -258,20 +272,7 @@ class Ledningen extends Component{
 													</div>										
 												</div>
 											</div>
-											<div className="col-lg-4 col-md-4 col-sm-12 m-b30">
-												<div className="profile-bx text-center">
-													<div className="user-profile-thumb">
-														<img src={profilePic1} alt=""/>
-													</div>
-													<div className="profile-info">
-                          <h4>Abdulkadir Adan</h4>
-														<span>Skolvärd</span>
-													</div>
-													<div className="profile-social">
-													<i className="fa fa-envelope"></i> <a to="#">kadir.adan@kistaschool.se</a>
-													</div>										
-												</div>
-											</div>
+											
 										</div>
 									</Tab.Content>
 								</Tab.Container>
