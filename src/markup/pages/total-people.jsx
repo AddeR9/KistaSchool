@@ -61,9 +61,9 @@ class TotalPeople extends Component{
                 <div className="col-md-4 col-sm-12 col-12">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-solid fa-volleyball"></i><Count counter={2}/></h3>
+										<h3><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><Count counter={91}/></h3>
 										</div>
-										<span className="cours-search-text">Idrottshallar</span>
+										<span className="cours-search-text">Gymnasiebehörighet i procent 2023/2024 </span>
 									</div>
 								</div>
 							</div>
