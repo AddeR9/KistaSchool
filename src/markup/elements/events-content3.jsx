@@ -77,11 +77,11 @@ const content = [
 		date: "14",
 		month: "April",
 	},
-	{ 
+	/*{ 
 		title: "Eid 31 mars ledigt (kan eventuellt ändras till annan dag)",		
 		date: "31",
 		month: "mars",
-	},
+	},*/
 	{ 
 		title: "1-2 maj ledigt",		
 		date: "1",
