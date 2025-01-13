@@ -25,9 +25,9 @@ class Laxhjalp extends Component{
 											<div className="info-bx">
 											<h4>Rinkeby folkets hus:</h4>
 												
-												<p>Lördagar klockan 15.00-17.00 för årskurs 8 och 9</p>
-												<p>Söndagar klockan 15.00-17.00 för årskurs 8 och 9</p>
-												<p>Måndagar klockan 17.00-19.00 för årskurs 7</p>
+												<p>Lördagar klockan 15.00-17.00 för årskurs 7, 8 och 9</p>
+												<p>Söndagar klockan 15.00-17.00 för årskurs 7, 8 och 9</p>
+												
 											
                         <br/>
                         <br/>
