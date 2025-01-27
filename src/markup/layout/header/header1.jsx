@@ -94,8 +94,7 @@ class Header extends Component{
 											<ul className="sub-menu">
 											<li><Link to="/kontaktaoss">Kontakta skolan</Link></li>
 											<li><Link to="/ledningen">Kontakta personal</Link></li>
-											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål och synpunkter</Link></li>
-											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-ledighetsansokan/" }} target="_blank">Ledighetsansökan</Link></li>
+											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-klagomal-och-synpunkter/" }} target="_blank">Klagomål och synpunkter</Link></li>											
 											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-andrad-adress-eller-kontaktuppgifter/" }} target="_blank">Ändrad adress eller kontaktuppgifter</Link></li>
 											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/uppsagning-av-skolplats/" }} target="_blank">Uppsägning av skolplats</Link></li>
 											<li><Link to={{ pathname: "https://journal.prorenata.se/contactform/kista-interna/kis-uppsagning-av-fritidsplats/" }} target="_blank">Uppsägning av fritidsplats</Link></li>
