@@ -60,13 +60,13 @@ class Ledningen extends Component{
 													</div>										
 												</div>
 											</div>
-                      <div className="col-lg-4 col-md-4 col-sm-12 m-b30">
+											{/*<div className="col-lg-4 col-md-4 col-sm-12 m-b30">
 												<div className="profile-bx text-center">
 													<div className="user-profile-thumb">
 														<img src={profilePic1} alt=""/>
 													</div>
 													<div className="profile-info">
-                          <h4>Helen Törnqvist</h4>
+                          								<h4>Helen Törnqvist</h4>
 														<span>Lärare i sv/sva, studierektor</span>
 													</div>
 													<div className="profile-social">
@@ -74,7 +74,7 @@ class Ledningen extends Component{
 													<li><i className="ti-mobile"></i>+46769498193</li>
 													</div>										
 												</div>
-											</div>
+											</div>*/}
 										</div>
 										<h2 className='mt-5 headertekst'>Administrativ personal</h2>
 										<div className="row">
@@ -168,13 +168,31 @@ class Ledningen extends Component{
 													</div>
 												</div>
 											</div>
-                      <div className="col-lg-4 col-md-4 col-sm-12 m-b30">
+
+											<div className="col-lg-4 col-md-4 col-sm-12 m-b30">
 												<div className="profile-bx text-center">
 													<div className="user-profile-thumb">
 														<img src={profilePic1} alt=""/>
 													</div>
 													<div className="profile-info">
-                          <h4>Saron Zeru</h4>
+														<h4>Ahmed Omer Abdi</h4>
+														<span>IT - Samordnare</span>
+													</div>
+													<div className="profile-social">
+													<i className="fa fa-envelope"></i> <a to="#">ahmed.omer@kistaschool.se</a>
+													<li><i className="ti-mobile">+46790661792</i></li>
+													</div>
+												</div>
+											</div>
+
+
+                      			<div className="col-lg-4 col-md-4 col-sm-12 m-b30">
+												<div className="profile-bx text-center">
+													<div className="user-profile-thumb">
+														<img src={profilePic1} alt=""/>
+													</div>
+													<div className="profile-info">
+                          							<h4>Saron Zeru</h4>
 														<span>Skoladministratör</span>
 													</div>
 													<div className="profile-social">
@@ -228,21 +246,7 @@ class Ledningen extends Component{
 													</div>										
 												</div>
 											</div>
-											<div className="col-lg-4 col-md-4 col-sm-12 m-b30">
-												<div className="profile-bx text-center">
-													<div className="user-profile-thumb">
-														<img src={profilePic1} alt=""/>
-													</div>
-													<div className="profile-info">
-														<h4>Ahmed Omer Abdi</h4>
-														<span>IT - Samordnare</span>
-													</div>
-													<div className="profile-social">
-													<i className="fa fa-envelope"></i> <a to="#">ahmed.omer@kistaschool.se</a>
-													<li><i className="ti-mobile">+46790661792</i></li>
-													</div>
-												</div>
-											</div>
+											
                       <div className="col-lg-4 col-md-4 col-sm-12 m-b30">
 												<div className="profile-bx text-center">
 													<div className="user-profile-thumb">
