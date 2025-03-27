@@ -33,6 +33,11 @@ const content = [
 		month: "Oktober",
 	},
 	{ 
+		title: "Lovdag, ",		
+		date: "31",
+		month: "November",
+	},
+	{ 
 		title: "Studiedag, dag för utvecklingssamtal men eleverna är lediga",		
 		date: "13",
 		month: "November",
@@ -68,6 +73,11 @@ const content = [
 		month: "Mars",
 	},
 	{ 
+		title: "Lovdag, Eid",		
+		date: "31",
+		month: "Mars",
+	},
+	{ 
 		title: "Påsklov 14-21 april",		
 		date: "14",
 		month: "April",
@@ -88,7 +98,7 @@ const content = [
 		month: "Maj",
 	},
 	{ 
-		title: "29-30 maj ledigt",		
+		title: "29 maj ledigt",		
 		date: "29",
 		month: "Maj",
 	},
