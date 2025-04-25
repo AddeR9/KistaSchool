@@ -98,7 +98,7 @@ const content = [
 		month: "Maj",
 	},
 	{ 
-		title: "29 maj ledigt",		
+		title: "29-30 maj ledigt",		
 		date: "29",
 		month: "Maj",
 	},
@@ -108,8 +108,8 @@ const content = [
 		month: "Juni",
 	},
 	{ 
-		title: "Skolavslutning 12 juni",		
-		date: "12",
+		title: "Skolavslutning 13 juni",		
+		date: "13",
 		month: "Juni",
 	},
 	
