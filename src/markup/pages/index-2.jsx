@@ -23,6 +23,10 @@ class Index2 extends Component{
 				
 					<div className="content-block" id="content-area">
 					<Start />
+					<video width="100%" height="360" controls autoPlay>
+        <source src="/avslutning_ar_24_25.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>	
 					<TotalPeople />
 					<ContactInfoCard />
 					</div>

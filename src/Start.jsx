@@ -57,7 +57,8 @@ class Start extends Component{
 		  style={{maxWidth:'960px',maxHeight:'960px'}}
 		  width='960'
 		  height='960'
-        />								</div>
+        />					
+	</div>
 							</div>
 						</div>
 					</div>
