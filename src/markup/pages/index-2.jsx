@@ -21,9 +21,9 @@ class Index2 extends Component{
 				
 				<div className="page-content bg-white">
 				
-					<div className="content-block" id="content-area">
+					<div className="content-block" id="content-area" style={{backgroundColor: "#001b47"}}>
 					<Start />
-					<video width="100%" height="360" controls autoPlay>
+					<video width="100%" height="600" controls autoPlay>
         <source src="/avslutning_ar_24_25.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>	
