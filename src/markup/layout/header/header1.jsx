@@ -113,7 +113,7 @@ class Header extends Component{
 										<li><Link to={{ pathname: " http://kista.welib.se/#/" }} target="_blank">Skolbiblioteket</Link></li>
 										<li><Link to={{ pathname: "https://utbildningsguiden.skolverket.se/skolenhet?schoolUnitID=37556682" }} target="_blank">Skolverkets jämförelsesida</Link></li>
 										<li><Link to={{ pathname: "https://www.skolverket.se/" }} target="_blank">Skolverkets hemsida</Link></li>										 
-										<li><Link to="/lasar2425">Läsårstider 2024/2025</Link></li>
+										{/* <li><Link to="/lasar2425">Läsårstider 2024/2025</Link></li> */}
 										<li><Link to="/lasar2526">Läsårstider 2025/2026</Link></li>
 											</ul>
 										</li> 
