@@ -93,8 +93,8 @@ const content = [
 	},
 	{ 
 		title: "Ledigt",		
-		date: "1",
-		month: "Juni",
+		date: "14 - 15",
+		month: "Maj",
 	},
 	
 	{ 
