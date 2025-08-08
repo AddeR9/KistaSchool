@@ -72,7 +72,7 @@ const content = [
 	},
 	{ 
 		title: "20 mars Eid ledigt (Kan eventuellt ändras till annan dag) ",		
-		date: "25",
+		date: "20",
 		month: "Mars",
 	},
 
