@@ -71,6 +71,12 @@ const content = [
 		month: "Mars",
 	},
 	{ 
+		title: "20 mars Eid ledigt (Kan eventuellt ändras till annan dag) ",		
+		date: "25",
+		month: "Mars",
+	},
+
+	{ 
 		title: "Påsklov 3-10 april",		
 		date: "",
 		month: "Påsklov ",
@@ -81,11 +87,7 @@ const content = [
 		date: "",
 		month: "Lovskola",
 	},
-	{ 
-		title: "25 april Eid ledigt (Kan eventuellt ändras till annan dag) ",		
-		date: "25",
-		month: "April",
-	},
+	
 	{ 
 		title: "Ledigt, fritids stängt (helgdag)",		
 		date: "1",
