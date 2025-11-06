@@ -71,7 +71,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">nusmir.tihic@kistaschool.se</a>
-													<li><i className="ti-mobile"></i>+46700211164</li>
+													<li><i className="ti-mobile"></i>+46769498086</li>
 													</div>										
 												</div>
 											</div>}
