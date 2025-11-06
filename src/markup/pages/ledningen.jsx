@@ -66,8 +66,8 @@ class Ledningen extends Component{
 														<img src={profilePic1} alt=""/>
 													</div>
 													<div className="profile-info">
-                          								<h4>Helen Törnqvist</h4>
-														<span>Lärare i sv/sva, studierektor</span>
+                          								<h4>Nusmir Tihic</h4>
+														<span>Biträdande rektor, F-6</span>
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">nusmir.tihic@kistaschool.se</a>
