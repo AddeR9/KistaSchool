@@ -25,12 +25,16 @@ class Laxhjalp extends Component{
 											<div className="info-bx">
 											<h4>Rinkeby folkets hus:</h4>
 												
-												<p>Lördagar klockan 15.00-17.00 för årskurs 7, 8 och 9</p>
-												<p>Söndagar klockan 15.00-17.00 för årskurs 7, 8 och 9</p>
+												<p>Åk 4–7: Måndagar kl. 17.00–19.00 </p>
+												<p>Åk 8–9: Lördagar och söndagar kl. 14.00–16.00 </p>
 												
 											
                         <br/>
                         <br/>
+											<h4>Tensta (Järva Gymnasium): </h4>
+											<p>Måndagar och onsdagar kl. 17.00–19.00  </p>
+						<br/>
+						
                         <p>Tillsammans hjälper vi eleverna att lyckas! </p>
                        
 						<br/>
