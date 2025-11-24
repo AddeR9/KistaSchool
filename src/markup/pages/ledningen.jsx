@@ -159,11 +159,12 @@ class Ledningen extends Component{
 														<img src={profilePic1} alt=""/>
 													</div>
 													<div className="profile-info">
-														<h4>Abukar Warsame</h4>
+														<h4>Zeinab Abukar</h4>
 														<span>Studie- och yrkesvägledare</span>
 													</div>
 													<div className="profile-social">
-													<i className="fa fa-envelope"></i> <a to="#">abdukar.warsame@kistaschool.se</a>
+													<i className="fa fa-envelope"></i> <a to="#">zeinab.abukar@kistaschool.se</a>
+													<li><i className="ti-mobile"></i> 08-51060290 /072-0850963</li>
 													{/*<li><i className="ti-mobile"></i></li>*/}
 													</div>
 												</div>
