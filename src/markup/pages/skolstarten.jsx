@@ -27,15 +27,15 @@ class Öppethus extends Component{
 												<br/>
 												<p>Snart fyller ert barn sex år och det är dags att börja förskolekklass</p>
 												<p>Kista International School välkommar er till våra öppet hus-dagar</p>
-												<h1>Onsdag den 14-01-2026. Kl. 17:00 - 19:30</h1>
+												<h4>Onsdag den 14-01-2026. Klockan: 17:00 - 19:30</h4>
 												<br/>
-												<h1>Torsdag den 29-01-2026. Kl 17:00 - 19:00</h1>
+												<h4>Torsdag den 29-01-2026. Klockan: 17:00 - 19:00</h4>
 												<br/>
 												
 												<br/>
-												<h1>Hjärtligt välkomna</h1>
+												<h4>Hjärtligt välkomna</h4>
 												<br/>
-												<h1>Vi ses snart!</h1>
+												<h4>Vi ses snart!</h4>
 
 						
 
