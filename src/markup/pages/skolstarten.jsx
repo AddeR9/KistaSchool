@@ -23,10 +23,25 @@ class Öppethus extends Component{
 									<div className="col-lg-8 col-xl-8">
 										<div className="recent-news blog-lg">
 											<div className="info-bx">
-												<p>Öppet hus för föräldrar som är intresserade av att ansöka om plats till förskoleklass nästa läsår. Det finns möjlighet att komma vid två tillfällen. Onsdag den 17 januari klockan 17.00-19.30 och fredag 2 februari klockan 17.00-19.00.</p>
+												<h4>Hipp Hipp Hurra!!!</h4>
+												<br/>
+												<p>Snart fyller ert barn sex år och det är dags att börja förskolekklass</p>
+												<p>Kista International School välkommar er till våra öppet hus-dagar</p>
+												<h1>Onsdag den 14-01-2026. Kl. 17:00 - 19:30</h1>
+												<br/>
+												<h1>Torsdag den 29-01-2026. Kl 17:00 - 19:00</h1>
+												<br/>
+												
+												<br/>
+												<h1>Hjärtligt välkomna</h1>
+												<br/>
+												<h1>Vi ses snart!</h1>
+
+						
+
                         <br/>
                         <br/>
-                        <p> Välkomna!</p>
+                        
                         
                       </div>
 										</div>
