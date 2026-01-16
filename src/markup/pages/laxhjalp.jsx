@@ -31,23 +31,23 @@ class Laxhjalp extends Component{
 											
                         <br/>
                         <br/>
-											<h4>Tensta (Järva Gymnasium): </h4>
-											<p>Måndagar och onsdagar kl. 17.00–19.00  </p>
+											<h4>Tensta (Tensta Träff): </h4>
+											<p>Måndagar och onsdagar kl. 17.30–19.30  </p>
 						<br/>
 						<br/>
                         
 											<h4>Husby (Folkets Husby / Husby Träff):  </h4>
-											<p>Måndagar kl. 17.00–19.00   </p>
-											<p>Torsdagar kl. 18.00–20.00   </p>
+											<p>Måndagar och Torsdagarkl. 17.00–19.00   </p>
+											
 						<br/>
 						
                         <br/>
 											<h4>Järfälla (Huset på Höjden, Jakobsberg):  </h4>
-											<p>Måndagar och fredagar kl. 17.30–19.30   </p>
+											<p>Onsdagar och fredagar kl. 17.30–19.30   </p>
 						<br/>
 						<br/>
 						<h4>Märsta (Frejgatan 20):  </h4>
-											<p>Lördagar och söndagar kl. 13.00-15.00  </p>
+											<p>Lördagar och söndagar kl. 13.00-15.30  </p>
 						<br/>
 						<br/>
 						
