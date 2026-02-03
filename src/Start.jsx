@@ -54,8 +54,8 @@ class Start extends Component{
 								<img
           src={isFirstImage ? huvudentre: aboutPic1}
           alt={isFirstImage ? "Image 1" : "Image 2"}
-		  style={{maxWidth:'960px',maxHeight:'960px'}}
-		  width='960'
+		  style={{maxWidth:'860px',maxHeight:'960px'}}
+		  width='860'
 		  height='960'
         />					
 	</div>
