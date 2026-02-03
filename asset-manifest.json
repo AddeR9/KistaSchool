@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.62785003.chunk.css",
-    "main.js": "/static/js/main.eae3e012.chunk.js",
-    "main.js.map": "/static/js/main.eae3e012.chunk.js.map",
+    "main.js": "/static/js/main.ccf67a0e.chunk.js",
+    "main.js.map": "/static/js/main.ccf67a0e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4bbebd0e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4bbebd0e.js.map",
     "static/css/2.0cc89900.chunk.css": "/static/css/2.0cc89900.chunk.css",
@@ -47,8 +47,6 @@
     "static/media/Matsal5.08e4be85.jpeg": "/static/media/Matsal5.08e4be85.jpeg",
     "static/media/Matsal6.abb62486.jpeg": "/static/media/Matsal6.abb62486.jpeg",
     "static/media/Matsal7.af41be80.jpeg": "/static/media/Matsal7.af41be80.jpeg",
-    "static/media/Oppet_hus_1.97e5c0ff.jpg": "/static/media/Oppet_hus_1.97e5c0ff.jpg",
-    "static/media/Oppet_hus_2.97e5c0ff.jpg": "/static/media/Oppet_hus_2.97e5c0ff.jpg",
     "static/media/Textilslöjd1.276cd68c.jpeg": "/static/media/Textilslöjd1.276cd68c.jpeg",
     "static/media/Textilslöjd2.8dee8885.jpeg": "/static/media/Textilslöjd2.8dee8885.jpeg",
     "static/media/Textilslöjd3.c6d8ffe4.jpeg": "/static/media/Textilslöjd3.c6d8ffe4.jpeg",
@@ -121,13 +119,15 @@
     "static/media/skoljoggen.96e4150d.jpeg": "/static/media/skoljoggen.96e4150d.jpeg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/svamp.8dfcc0ce.jpg": "/static/media/svamp.8dfcc0ce.jpg",
-    "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
+    "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg",
+    "static/media/till_aretssista.3404dd41.jpg": "/static/media/till_aretssista.3404dd41.jpg",
+    "static/media/till_aretssista2.3404dd41.jpg": "/static/media/till_aretssista2.3404dd41.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4bbebd0e.js",
     "static/css/2.0cc89900.chunk.css",
     "static/js/2.84633410.chunk.js",
     "static/css/main.62785003.chunk.css",
-    "static/js/main.eae3e012.chunk.js"
+    "static/js/main.ccf67a0e.chunk.js"
   ]
 }
