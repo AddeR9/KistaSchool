@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.62785003.chunk.css",
-    "main.js": "/static/js/main.a529c2da.chunk.js",
-    "main.js.map": "/static/js/main.a529c2da.chunk.js.map",
+    "main.js": "/static/js/main.eae3e012.chunk.js",
+    "main.js.map": "/static/js/main.eae3e012.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4bbebd0e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4bbebd0e.js.map",
     "static/css/2.0cc89900.chunk.css": "/static/css/2.0cc89900.chunk.css",
@@ -47,7 +47,8 @@
     "static/media/Matsal5.08e4be85.jpeg": "/static/media/Matsal5.08e4be85.jpeg",
     "static/media/Matsal6.abb62486.jpeg": "/static/media/Matsal6.abb62486.jpeg",
     "static/media/Matsal7.af41be80.jpeg": "/static/media/Matsal7.af41be80.jpeg",
-    "static/media/Oppet_hus.3d811c3f.jpg": "/static/media/Oppet_hus.3d811c3f.jpg",
+    "static/media/Oppet_hus_1.97e5c0ff.jpg": "/static/media/Oppet_hus_1.97e5c0ff.jpg",
+    "static/media/Oppet_hus_2.97e5c0ff.jpg": "/static/media/Oppet_hus_2.97e5c0ff.jpg",
     "static/media/Textilslöjd1.276cd68c.jpeg": "/static/media/Textilslöjd1.276cd68c.jpeg",
     "static/media/Textilslöjd2.8dee8885.jpeg": "/static/media/Textilslöjd2.8dee8885.jpeg",
     "static/media/Textilslöjd3.c6d8ffe4.jpeg": "/static/media/Textilslöjd3.c6d8ffe4.jpeg",
@@ -83,7 +84,6 @@
     "static/media/fasad9.a8a20b72.jpeg": "/static/media/fasad9.a8a20b72.jpeg",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/grillochfotboll.8b5834e3.jpeg": "/static/media/grillochfotboll.8b5834e3.jpeg",
-    "static/media/huvudentre_april23.4387de0a.jpg": "/static/media/huvudentre_april23.4387de0a.jpg",
     "static/media/kistachool2.cfd1dc0e.jpg": "/static/media/kistachool2.cfd1dc0e.jpg",
     "static/media/kistaschoolfirst.b5b86f20.jpg": "/static/media/kistaschoolfirst.b5b86f20.jpg",
     "static/media/line-awesome.min.css": "/static/media/line-awesome.f4b3204d.svg",
@@ -128,6 +128,6 @@
     "static/css/2.0cc89900.chunk.css",
     "static/js/2.84633410.chunk.js",
     "static/css/main.62785003.chunk.css",
-    "static/js/main.a529c2da.chunk.js"
+    "static/js/main.eae3e012.chunk.js"
   ]
 }
