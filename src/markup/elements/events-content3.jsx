@@ -8,43 +8,35 @@ import ContactInfoCard from './contact-info-card';
 // Portfolio Content
 const content = [
 	{ 
-		title: "Elevernas första dag",		
-		date: 19,
+		title: "Lärarnas första dag",		
+		date: 6,
 		month: "Augusti",
 	},
 	{ 
-		title: "PRAO åk 8, 24 mars till 4 april",		
-		date: "24",
-		month: "mars",
+		title: "Elevernas första dag",		
+		date: 17,
+		month: "Augusti",
 	},
 	{ 
-		title: "Studiedag - eleverna lediga",		
-		date: "25",
+		title: "Studiedag",		
+		date: "23",
 		month: "Oktober",
 	},
+	
 	{ 
-		title: "Lovskola 28-31 Oktober",		
-		date: "28",
+		title: "Vecka 44 - Läslov",		
+		date: "26",
 		month: "Oktober",
 	},
+	
 	{ 
-		title: "Höstlov 28 oktober till 1 november",		
-		date: "28",
-		month: "Oktober",
-	},
-	{ 
-		title: "Lovdag, ",		
-		date: "31",
+		title: "Studiedag, dag för utvecklingssamtal",		
+		date: "11",
 		month: "November",
 	},
 	{ 
-		title: "Studiedag, dag för utvecklingssamtal men eleverna är lediga",		
-		date: "13",
-		month: "November",
-	},
-	{ 
-		title: "Julavslutning",		
-		date: "20",
+		title: "Julavslutning och även sista dag för lärarna",		
+		date: "18",
 		month: "December",
 	},
 	{ 
@@ -53,65 +45,52 @@ const content = [
 		month: "December",
 	},
 	{ 
-		title: "Elevernas första dag 8 januari",		
+		title: "Lärarnas första dag 8 januari",		
 		date: "8",
 		month: "Januari",
 	},
 	{ 
-		title: "Sportlov 24-28 februari",		
-		date: "24",
-		month: "Februari",
+		title: "Elevernas första dag 11 januari",		
+		date: "11",
+		month: "Januari",
 	},
 	{ 
-		title: "Lovskola 24-27 februari",		
-		date: "24",
-		month: "Februari",
-	},
-	{ 
-		title: "Studiedag, dag för utvecklingssamtal men eleverna är lediga",		
-		date: "19",
+		title: "Sportlov 01-07 mars",		
+		date: "01",
 		month: "Mars",
 	},
 	{ 
 		title: "Lovdag, Eid",		
-		date: "31",
+		date: "10",
 		month: "Mars",
 	},
 	{ 
-		title: "Påsklov 14-21 april",		
-		date: "14",
+		title: "Studiedag, dag för utvecklingssamtal",		
+		date: "24",
+		month: "Mars",
+	},
+	{ 
+		title: "Påsklov 26 mars till fredag 2 april ",		
+		date: "26",
 		month: "April",
 	},
 	{ 
-		title: "Lovskola 14-17 april",		
-		date: "14",
-		month: "April",
-	},
-	/*{ 
-		title: "Eid 31 mars ledigt (kan eventuellt ändras till annan dag)",		
-		date: "31",
-		month: "mars",
-	},*/
-	{ 
-		title: "1-2 maj ledigt",		
-		date: "1",
+		title: "Torsdag och fredag 6-7 maj - Lovdagar Kristi himmelsfärd",		
+		date: "6 - 7",
 		month: "Maj",
 	},
+		
 	{ 
-		title: "29-30 maj ledigt",		
-		date: "29",
-		month: "Maj",
-	},
-	{ 
-		title: "6 juni ledigt",		
-		date: "6",
+		title: "Sommaravslutning",		
+		date: "11",
 		month: "Juni",
 	},
 	{ 
-		title: "Skolavslutning 13 juni",		
-		date: "13",
+		title: "Lärarnas sista dag",		
+		date: "18",
 		month: "Juni",
 	},
+	
 	
 ]
 
@@ -124,7 +103,7 @@ class EventsContent3 extends Component{
 					<div className="container">
 					<div className="row">
 							<div className="col-md-12 heading-bx left mt-5">
-								<h2 className="title-head">Läsåret <span> 2024/2025</span></h2>
+								<h2 className="title-head">Läsåret <span> 2026/2027</span></h2>
 							</div>
 						</div>
 						<div className="row">
