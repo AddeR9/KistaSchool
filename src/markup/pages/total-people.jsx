@@ -21,7 +21,7 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-sharp fa-solid fa-person-chalkboard"></i><Count counter={112}/></h3>
+											<h3><i class="fa-sharp fa-solid fa-person-chalkboard"></i><Count counter={119}/></h3>
 										</div>
 										<span className="cours-search-text">Lärare och personal</span>
 									</div>
