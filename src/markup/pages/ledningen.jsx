@@ -114,12 +114,12 @@ class Ledningen extends Component{
 														<img src={profilePic1} alt=""/>
 													</div>
 													<div className="profile-info">
-                          <h4>Dahir Jeite </h4>
+                          <h4>Issa Ali </h4>
 														<span>Intedent</span>
 													</div>
 													<div className="profile-social">
-													<i className="fa fa-envelope"></i> <a to="#">dahir.jeite@kistaschool.se</a>
-													<li><i className="ti-mobile"></i>+46762423100</li>
+													<i className="fa fa-envelope"></i> <a to="#">issa.ali@kistaschool.se</a>
+													<li><i className="ti-mobile"></i>+46736593316</li>
 													</div>										
 												</div>
 											</div>
@@ -209,7 +209,7 @@ class Ledningen extends Component{
 													</div>
 													<div className="profile-info">
 														<h4>Yerosalim Asgodom</h4>
-														<span>Kurator</span>
+														<span>Kurator 5-9</span>
 													</div>
 													<div className="profile-social">
 													<i className="fa fa-envelope"></i> <a to="#">yerosalim.asgodom@kistaschool.se</a>
@@ -217,6 +217,23 @@ class Ledningen extends Component{
 													</div>
 												</div>
 											</div>
+
+												<div className="col-lg-4 col-md-4 col-sm-12 m-b30">
+												<div className="profile-bx text-center">
+													<div className="user-profile-thumb">
+														<img src={profilePic1} alt=""/>
+													</div>
+													<div className="profile-info">
+														<h4>Ifrah Ali</h4>
+														<span>Kurator F-4</span>
+													</div>
+													<div className="profile-social">
+													<i className="fa fa-envelope"></i> <a to="#">ifrah.ali@kistaschool.se</a>
+													<li><i className="ti-mobile">+46704256886</i></li>
+													</div>
+												</div>
+											</div>
+
                       <div className="col-lg-4 col-md-4 col-sm-12 m-b30">
 												<div className="profile-bx text-center">
 													<div className="user-profile-thumb">
