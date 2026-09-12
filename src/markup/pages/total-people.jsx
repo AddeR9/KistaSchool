@@ -21,7 +21,7 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-sharp fa-solid fa-person-chalkboard"></i><Count counter={112}/></h3>
+											<h3><i class="fa-sharp fa-solid fa-person-chalkboard"></i><Count counter={119}/></h3>
 										</div>
 										<span className="cours-search-text">Lärare och personal</span>
 									</div>
@@ -29,7 +29,7 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-solid fa-graduation-cap"></i><Count counter={730}/></h3>
+											<h3><i class="fa-solid fa-graduation-cap"></i><Count counter={755}/></h3>
 										</div>
 										<span className="cours-search-text">Elever</span>
 									</div>
@@ -37,7 +37,7 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-solid fa-graduation-cap"></i><Count counter={34}/></h3>
+											<h3><i class="fa-solid fa-graduation-cap"></i><Count counter={35}/></h3>
 										</div>
 										<span className="cours-search-text">Klasser F-9</span>
 									</div>
@@ -45,7 +45,7 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-6 col-6">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><Count counter={233}/></h3>
+											<h3><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><Count counter={266}/></h3>
 										</div>
 										<span className="cours-search-text">Meritvärdet 2024/2025</span>
 									</div>
@@ -53,7 +53,7 @@ class TotalPeople extends Component{
 								<div className="col-md-4 col-sm-12 col-12">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-											<h3><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><Count counter={81}/></h3>
+											<h3><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><Count counter={95}/></h3>
 										</div>
 										<span className="cours-search-text">Andel legitimerade lärare i procent</span>
 									</div>
@@ -61,9 +61,9 @@ class TotalPeople extends Component{
                 <div className="col-md-4 col-sm-12 col-12">
 									<div className="cours-search-bx m-b30">
 										<div className="icon-box">
-										<h3><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><Count counter={96}/></h3>
+										<h3><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i><Count counter={98}/></h3>
 										</div>
-										<span className="cours-search-text">Gymnasiebehörighet i procent 2024/202 </span>
+										<span className="cours-search-text">Gymnasiebehörighet i procent 2025/2026 </span>
 									</div>
 								</div>
 							</div>
