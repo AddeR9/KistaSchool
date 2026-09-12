@@ -22,9 +22,14 @@ const content = [
 		date: "23",
 		month: "Oktober",
 	},
+
+	{ 
+		title: "Lovskola 26-29 oktober",			
+		month: "Oktober",
+	},
 	
 	{ 
-		title: "Vecka 44 - Läslov",		
+		title: "Vecka 44 - Läslov 26-30 oktober",		
 		date: "26",
 		month: "Oktober",
 	},
@@ -54,13 +59,20 @@ const content = [
 		date: "11",
 		month: "Januari",
 	},
+	
 	{ 
-		title: "Sportlov 01-07 mars",		
+		title: "Lovskola 1-4 mars åk 6-8",
+		title: "Lovskola 1-5 mars åk 9",		
+		month: "Mars",
+	},
+
+	{ 
+		title: "Sportlov 01-05 mars",		
 		date: "01",
 		month: "Mars",
 	},
 	{ 
-		title: "Lovdag, Eid",		
+		title: "Lovdag, Lovdag",		
 		date: "10",
 		month: "Mars",
 	},
@@ -70,12 +82,17 @@ const content = [
 		month: "Mars",
 	},
 	{ 
-		title: "Påsklov 26 mars till fredag 2 april ",		
+		title: "Påsklov 26 mars till 2 april ",		
 		date: "26",
-		month: "April",
+		month: "Mars",
 	},
 	{ 
-		title: "Torsdag och fredag 6-7 maj - Lovdagar Kristi himmelsfärd",		
+		title: "Lovskola 30 mars till 2 april",
+		date: "26",		
+		month: "Mars",
+	},
+	{ 
+		title: "Torsdag och fredag 6-7 maj - Lovdagar",		
 		date: "6 - 7",
 		month: "Maj",
 	},
@@ -83,6 +100,12 @@ const content = [
 	{ 
 		title: "Sommaravslutning",		
 		date: "11",
+		month: "Juni",
+	},
+	{ 
+		title: "Lovskola 14-17 juni åk 6-8",
+				title: "Lovskola 14-24 juni åk 9",		
+		date: "14",
 		month: "Juni",
 	},
 	{ 
