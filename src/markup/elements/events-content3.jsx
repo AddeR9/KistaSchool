@@ -72,7 +72,7 @@ const content = [
 		month: "Mars",
 	},
 	{ 
-		title: "Lovdag, Lovdag",		
+		title: "Lovdag",		
 		date: "10",
 		month: "Mars",
 	},
