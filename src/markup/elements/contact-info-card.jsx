@@ -20,7 +20,7 @@ class ContactInfoCard extends Component{
 					</div>
 					<h5 className="m-t0 m-b20">Följ oss</h5>
 					<ul className="list-inline contact-social-bx m-b0 bigSize" >
-						<li><Link to={{ pathname: "https://www.instagram.com/kista_international_school?stkn=MXRncmUya3N2M2tlZQ==" }} target="_blank" className="btn outline radius-xl"><i className="fa fa-facebook"></i></Link></li>
+						<li><Link to={{ pathname: "https://www.instagram.com/kista_international_school?stkn=MXRncmUya3N2M2tlZQ==" }} target="_blank" className="btn outline radius-xl"><i className="fab fa-instagram"></i></Link></li>
 						{/*<li><Link to={{ pathname: "https://sv-se.facebook.com/KistaSchool/" }} target="_blank" className="btn outline radius-xl"><i className="fa fa-facebook"></i></Link></li>*/}
 
 					</ul>
