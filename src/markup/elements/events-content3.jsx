@@ -62,6 +62,9 @@ const content = [
 	
 	{ 
 		title: "Lovskola 1-4 mars åk 6-8",
+		month: "Mars",
+	},
+	{ 
 		title: "Lovskola 1-5 mars åk 9",		
 		month: "Mars",
 	},
@@ -104,7 +107,11 @@ const content = [
 	},
 	{ 
 		title: "Lovskola 14-17 juni åk 6-8",
-				title: "Lovskola 14-24 juni åk 9",		
+		date: "14",
+		month: "Juni",
+	},
+	{ 
+		title: "Lovskola 14-24 juni åk 9",		
 		date: "14",
 		month: "Juni",
 	},
