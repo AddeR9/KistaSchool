@@ -91,7 +91,6 @@ const content = [
 	},
 	{ 
 		title: "Lovskola 30 mars till 2 april",
-		date: "26",		
 		month: "Mars",
 	},
 	{ 
