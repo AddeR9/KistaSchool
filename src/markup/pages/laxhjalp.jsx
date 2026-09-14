@@ -40,7 +40,7 @@ class Laxhjalp extends Component{
                         
 						<br/>
                         
-											<h4>Husby - Folket hus:  </h4>
+											<h4>Husby - Folkets hus:  </h4>
 											<p>Måndagar och Onsdagarkl. 17.00–19.00   </p>
 											
 						<br/>
