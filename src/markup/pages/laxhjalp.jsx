@@ -26,29 +26,26 @@ class Laxhjalp extends Component{
 											<h4>Rinkeby folkets hus:</h4>
 												
 												<p>Åk 4–7: Måndagar kl. 17.00–19.00 </p>
-												<p>Åk 8–9: Lördagar och söndagar kl. 14.00–16.00 </p>
-												
+												<p>Åk 8–9: Lördagar och söndagar kl. 15.00–17.00 </p>											
 											
-                        <br/>
-                        <br/>
-											<h4>Tensta (Tensta Träff): </h4>
-											<p>Måndagar och onsdagar kl. 17.30–19.30  </p>
+                        
 						<br/>
+						<h4>Tensta (Tensta Träff): </h4>
+						<p>Måndagar och onsdagar kl. 17 –19  </p>
+						<br/>
+
+						<h4>Järfälla (Huset på Höjden, Jakobsberg):  </h4>
+						<p>Måndagar och Onsdagar kl. 17.30–19.30   </p>
+
+                        
 						<br/>
                         
-											<h4>Husby (Folkets Husby / Husby Träff):  </h4>
-											<p>Måndagar och Torsdagarkl. 17.00–19.00   </p>
+											<h4>Husby - Folket hus:  </h4>
+											<p>Måndagar och Onsdagarkl. 17.00–19.00   </p>
 											
 						<br/>
 						
-                        <br/>
-											<h4>Järfälla (Huset på Höjden, Jakobsberg):  </h4>
-											<p>Onsdagar och fredagar kl. 17.30–19.30   </p>
-						<br/>
-						<br/>
-						<h4>Märsta (Frejgatan 20):  </h4>
-											<p>Lördagar och söndagar kl. 13.00-15.30  </p>
-						<br/>
+                        
 						<br/>
 						
                         <p>Tillsammans hjälper vi eleverna att lyckas! </p>
