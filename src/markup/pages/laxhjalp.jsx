@@ -35,7 +35,7 @@ class Laxhjalp extends Component{
 						<br/>
 
 						<h4>Järfälla (Huset på Höjden, Jakobsberg):  </h4>
-						<p>Måndagar och Onsdagar kl. 17.30–19.30   </p>
+						<p>Onsdagar och fredagar kl. 17.30–19.30   </p>
 
                         
 						<br/>
